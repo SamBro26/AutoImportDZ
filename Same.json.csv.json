@@ -1,3 +1,51 @@
+{
+  "countries": [
+{
+      "iso_code": "AT",
+      "capital": "Vienna",
+      "currency": "EUR",
+      "name_translations": {
+        "bg": "Австрия", "ca": "Àustria", "hr": "Austrija", "nl": "Oostenrijk", "en": "Austria",
+        "et": "Austria", "fi": "Itävalta", "fr": "Autriche", "de": "Österreich", "el": "Αυστρία",
+        "ga": "An Ostair", "it": "Austria", "lv": "Austrija", "lt": "Austrija", "lb": "Éisträich",
+        "mt": "Awstrija", "pt": "Áustria", "sk": "Rakúsko", "sl": "Avstrija", "es": "Austria",
+        "tr": "Avusturya", "la": "Austria", "sv": "Österrike"
+      },
+      "administrative_divisions": [
+        {
+          "level1_id": "AT-9",
+          "type": "Bundesland",
+          "names": {
+            "bg": "Виена", "ca": "Viena", "hr": "Beč", "nl": "Wenen", "en": "Vienna",
+            "et": "Viin", "fi": "Wien", "fr": "Vienne", "de": "Wien", "el": "Βιέννη",
+            "ga": "Vín", "it": "Vienna", "lv": "Vīne", "lt": "Viena", "lb": "Wien",
+            "mt": "Vjenna", "pt": "Viena", "sk": "Viedeň", "sl": "Dunaj", "es": "Viena",
+            "tr": "Viyana", "la": "Vindobona", "sv": "Wien"
+          },
+          "level2_divisions": [
+            {
+              "level2_id": "AT-901",
+              "type": "Bezirk",
+              "names": {
+                "bg": "Виена (Град)", "ca": "Viena (Ciutat)", "hr": "Beč (Grad)", "nl": "Wenen (Stad)", "en": "Vienna City",
+                "et": "Viini linn", "fi": "Wienin kaupunki", "fr": "Vienne Ville", "de": "Wien Stadt", "el": "Βιέννη (Πόλη)",
+                "ga": "Cathair Vín", "it": "Vienna Città", "lv": "Vīnes pilsēta", "lt": "Vienos miestas", "lb": "Wien Stad",
+                "mt": "Belt ta' Vjenna", "pt": "Viena Cidade", "sk": "Viedeň-mesto", "sl": "Dunaj-mesto", "es": "Viena Ciudad",
+                "tr": "Viyana Şehri", "la": "Vindobona Urbs", "sv": "Wien Stad"
+              },
+              "municipalities": [
+                {
+                  "municipality_id": "AT-M-1010",
+                  "name": "Innere Stadt",
+                  "postal_codes": ["1010"]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+              
 countries
 "[{"
 "iso_code":"AT",
