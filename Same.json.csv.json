@@ -1267,38 +1267,286 @@
         "tr": "Finlandiya", "la": "Finnia", "sv": "Finland"
       },
       "administrative_divisions": [
-        {
-          "level1_id": "FI-18",
-          "type": "Maakunta",
-          "names": {
-            "bg": "Уусимаа", "ca": "Uusimaa", "hr": "Uusimaa", "nl": "Uusimaa", "en": "Uusimaa",
-            "et": "Uusimaa", "fi": "Uusimaa", "fr": "Uusimaa", "de": "Uusimaa", "el": "Ούσιμαα",
-            "ga": "Uusimaa", "it": "Uusimaa", "lv": "Ūsimā", "lt": "Ūsima", "lb": "Uusimaa",
-            "mt": "Uusimaa", "pt": "Uusimaa", "sk": "Uusimaa", "sl": "Uusimaa", "es": "Uusimaa",
-            "tr": "Uusimaa", "la": "Nylandia", "sv": "Nyland"
-          },
-          "level2_divisions": [
-            {
-              "level2_id": "FI-181",
-              "type": "Seutukunta",
-              "names": {
-                "bg": "Хелзинки", "ca": "Helsinki", "hr": "Helsinki", "nl": "Helsinki", "en": "Helsinki",
-                "et": "Helsingi", "fi": "Helsinki", "fr": "Helsinki", "de": "Helsinki", "el": "Ελσίνκι",
-                "ga": "Helsinki", "it": "Helsinki", "lv": "Helsinki", "lt": "Helsinkis", "lb": "Helsinki",
-                "mt": "Helsinki", "pt": "Helsínquia", "sk": "Helsinki", "sl": "Helsinki", "es": "Helsinki",
-                "tr": "Helsinki", "la": "Helsingforsia", "sv": "Helsingfors"
-              },
-              "municipalities": [
-                {
-                  "municipality_id": "FI-M-00100",
-                  "name": "Helsinki Centrum",
-                  "postal_codes": ["00100"]
-                }
-              ]
-            }
-          ]
-        }
-      ]
+    {
+      "level1_id": "FI-01",
+      "type": "Maakunta",
+      "names": {
+        "bg": "Лапландия", "ca": "Lapònia", "hr": "Laponija", "nl": "Lapland", "en": "Lapland",
+        "et": "Lapi", "fi": "Lappi", "fr": "Laponie", "de": "Lappland", "el": "Λαπωνία",
+        "ga": "An Lapplainn", "it": "Lapponia", "lv": "Lapzeme", "lt": "Lapija", "lb": "Lappland",
+        "mt": "Lapland", "pt": "Lapónia", "sk": "Laponsko", "sl": "Laponska", "es": "Laponia",
+        "tr": "Laponya", "la": "Lapponia", "sv": "Lappland"
+      }
+    },
+    {
+      "level1_id": "FI-02",
+      "type": "Maakunta",
+      "names": {
+        "bg": "Северна Остроботния", "ca": "Ostrobòtnia del Nord", "hr": "Sjeverna Ostrobotnija", "nl": "Noord-Ostrobotnië", "en": "North Ostrobothnia",
+        "et": "Põhja-Pohjanmaa", "fi": "Pohjois-Pohjanmaa", "fr": "Ostrobotnie du Nord", "de": "Nordösterbotten", "el": "Βόρεια Οστροβόθνια",
+        "ga": "Ostrobothnia Thuaidh", "it": "Ostrobotnia del Nord", "lv": "Ziemeļpohjanmā", "lt": "Šiaurės Ostrobotnija", "lb": "Nord-Ostrobotnien",
+        "mt": "Ostrobotnija tat-Tramuntana", "pt": "Ostrobótnia do Nordeste", "sk": "Severná Ostrobotnia", "sl": "Severna Ostrobotnija", "es": "Ostrobotnia del Norte",
+        "tr": "Kuzey Ostrobotniya", "la": "Ostrobothnia Septentrionalis", "sv": "Norra Österbotten"
+      }
+    },
+    {
+      "level1_id": "FI-03",
+      "type": "Maakunta",
+      "names": {
+        "bg": "Кайнуу", "ca": "Kainuu", "hr": "Kainuu", "nl": "Kainuu", "en": "Kainuu",
+        "et": "Kainuu", "fi": "Kainuu", "fr": "Kainuu", "de": "Kainuu", "el": "Κάινουου",
+        "ga": "Kainuu", "it": "Kainuu", "lv": "Kainū", "lt": "Kainū", "lb": "Kainuu",
+        "mt": "Kainuu", "pt": "Kainuu", "sk": "Kainuu", "sl": "Kainuu", "es": "Kainuu",
+        "tr": "Kainuu", "la": "Cajania", "sv": "Kajanaland"
+      }
+    },
+    {
+      "level1_id": "FI-04",
+      "type": "Maakunta",
+      "names": {
+        "bg": "Северна Карелия", "ca": "Carèlia del Nord", "hr": "Sjeverna Karelija", "nl": "Noord-Kareliz", "en": "North Karelia",
+        "et": "Põhja-Karjala", "fi": "Pohjois-Karjala", "fr": "Carélie du Nord", "de": "Nordkarelien", "el": "Βόρεια Καρελία",
+        "ga": "An Chairéil Thuaidh", "it": "Carelia del Nord", "lv": "Ziemeļkarelija", "lt": "Šiaurės Karelija", "lb": "Nordkarelien",
+        "mt": "Karelija tat-Tramuntana", "pt": "Carélia do Norte", "sk": "Severná Karélia", "sl": "Severna Karelija", "es": "Carelia del Norte",
+        "tr": "Kuzey Karelya", "la": "Carelia Septentrionalis", "sv": "Norra Karelen"
+      }
+    },
+    {
+      "level1_id": "FI-05",
+      "type": "Maakunta",
+      "names": {
+        "bg": "Северна Савония", "ca": "Savònia del Nord", "hr": "Sjeverni Savo", "nl": "Noord-Savo", "en": "North Savo",
+        "et": "Põhja-Savo", "fi": "Pohjois-Savo", "fr": "Savoie du Nord", "de": "Nordsavo", "el": "Βόρεια Σαβονία",
+        "ga": "Savo Thuaidh", "it": "Savo del Nord", "lv": "Ziemeļsavo", "lt": "Šiaurės Savo", "lb": "Nordsavo",
+        "mt": "Savo tat-Tramuntana", "pt": "Savónia do Norte", "sk": "Severné Savo", "sl": "Severna Savonija", "es": "Savonia del Norte",
+        "tr": "Kuzey Savo", "la": "Savonia Septentrionalis", "sv": "Norra Savolax"
+      }
+    },
+    {
+      "level1_id": "FI-06",
+      "type": "Maakunta",
+      "names": {
+        "bg": "Южна Савония", "ca": "Savònia del Sud", "hr": "Južni Savo", "nl": "Zuid-Savo", "en": "South Savo",
+        "et": "Lõuna-Savo", "fi": "Etelä-Savo", "fr": "Savoie du Sud", "de": "Südsavo", "el": "Νότια Σαβονία",
+        "ga": "Savo Theas", "it": "Savo del Sud", "lv": "Dienvidsavo", "lt": "Pietų Savo", "lb": "Südsavo",
+        "mt": "Savo tan-Nofsinhar", "pt": "Savónia do Sul", "sk": "Južné Savo", "sl": "Južna Savonija", "es": "Savonia del Sur",
+        "tr": "Güney Savo", "la": "Savonia Meridionalis", "sv": "Södra Savolax"
+      }
+    },
+    {
+      "level1_id": "FI-07",
+      "type": "Maakunta",
+      "names": {
+        "bg": "Южна Остроботния", "ca": "Ostrobòtnia del Sud", "hr": "Južna Ostrobotnija", "nl": "Zuid-Ostrobotnië", "en": "South Ostrobothnia",
+        "et": "Lõuna-Pohjanmaa", "fi": "Etelä-Pohjanmaa", "fr": "Ostrobotnie du Sud", "de": "Südösterbotten", "el": "Νότια Οστροβόθνια",
+        "ga": "Ostrobothnia Theas", "it": "Ostrobotnia del Sud", "lv": "Dienvidpohjanmā", "lt": "Pietų Ostrobotnija", "lb": "Süd-Ostrobotnien",
+        "mt": "Ostrobotnija tan-Nofsinhar", "pt": "Ostrobótnia do Sul", "sk": "Južná Ostrobotnia", "sl": "Južna Ostrobotnija", "es": "Ostrobotnia del Sur",
+        "tr": "Güney Ostrobotniya", "la": "Ostrobothnia Meridionalis", "sv": "Södra Österbotten"
+      }
+    },
+    {
+      "level1_id": "FI-08",
+      "type": "Maakunta",
+      "names": {
+        "bg": "Остроботния", "ca": "Ostrobòtnia", "hr": "Ostrobotnija", "nl": "Ostrobotnië", "en": "Ostrobothnia",
+        "et": "Pohjanmaa", "fi": "Pohjanmaa", "fr": "Ostrobotnie", "de": "Österbotten", "el": "Οστροβόθνια",
+        "ga": "Ostrobothnia", "it": "Ostrobotnia", "lv": "Pohjanmā", "lt": "Ostrobotnija", "lb": "Ostrobotnien",
+        "mt": "Ostrobotnija", "pt": "Ostrobótnia", "sk": "Ostrobotnia", "sl": "Ostrobotnija", "es": "Ostrobotnia",
+        "tr": "Ostrobotniya", "la": "Ostrobothnia", "sv": "Österbotten"
+      }
+    },
+    {
+      "level1_id": "FI-09",
+      "type": "Maakunta",
+      "names": {
+        "bg": "Пирканмаа", "ca": "Pirkanmaa", "hr": "Pirkanmaa", "nl": "Pirkanmaa", "en": "Pirkanmaa",
+        "et": "Pirkanmaa", "fi": "Pirkanmaa", "fr": "Pirkanmaa", "de": "Pirkanmaa", "el": "Πιρκάνμαα",
+        "ga": "Pirkanmaa", "it": "Pirkanmaa", "lv": "Pirkanmā", "lt": "Pirkanma", "lb": "Pirkanmaa",
+        "mt": "Pirkanmaa", "pt": "Pirkanmaa", "sk": "Pirkanmaa", "sl": "Pirkanmaa", "es": "Pirkanmaa",
+        "tr": "Pirkanmaa", "la": "Birka", "sv": "Birkaland"
+      }
+    },
+    {
+      "level1_id": "FI-10",
+      "type": "Maakunta",
+      "names": {
+        "bg": "Сатакунта", "ca": "Satakunta", "hr": "Satakunta", "nl": "Satakunta", "en": "Satakunta",
+        "et": "Satakunta", "fi": "Satakunta", "fr": "Satakunta", "de": "Satakunta", "el": "Σατακούντα",
+        "ga": "Satakunta", "it": "Satakunta", "lv": "Satakunta", "lt": "Satakunta", "lb": "Satakunta",
+        "mt": "Satakunta", "pt": "Satakunta", "sk": "Satakunta", "sl": "Satakunta", "es": "Satakunta",
+        "tr": "Satakunta", "la": "Satacundia", "sv": "Satakunta"
+      }
+    },
+    {
+      "level1_id": "FI-11",
+      "type": "Maakunta",
+      "names": {
+        "bg": "Централна Финландия", "ca": "Finlàndia Central", "hr": "Središnja Finska", "nl": "Centraal-Finland", "en": "Central Finland",
+        "et": "Kesk-Suomi", "fi": "Keskis-Suomi", "fr": "Finlande centrale", "de": "Mittelfinnland", "el": "Κεντρική Φινλανδία",
+        "ga": "An Fhionlann Láir", "it": "Finlande Centrale", "lv": "Centрэlā Somija", "lt": "Vidurio Suomija", "lb": "Mittelfinnland",
+        "mt": "Finlandja Ċentrali", "pt": "Finlândia Central", "sk": "Centrálne Fínsko", "sl": "Osrednja Finska", "es": "Finlandia Central",
+        "tr": "Merkez Finlandiya", "la": "Finnia Centralis", "sv": "Mellersta Finland"
+      }
+    },
+    {
+      "level1_id": "FI-12",
+      "type": "Maakunta",
+      "names": {
+        "bg": "Централна Остроботния", "ca": "Ostrobòtnia Central", "hr": "Središnja Ostrobotnija", "nl": "Centraal-Ostrobotnië", "en": "Central Ostrobothnia",
+        "et": "Kesk-Pohjanmaa", "fi": "Keski-Pohjanmaa", "fr": "Ostrobotnie centrale", "de": "Mittelösterbotten", "el": "Κεντρική Οστροβόθνια",
+        "ga": "Ostrobothnia Láir", "it": "Ostrobotnia Centrale", "lv": "Centrālā Pohjanmā", "lt": "Vidurio Ostrobotnija", "lb": "Mittel-Ostrobotnien",
+        "mt": "Ostrobotnija Ċentrali", "pt": "Ostrobótnia Central", "sk": "Centrálna Ostrobotnia", "sl": "Osrednja Ostrobotnija", "es": "Ostrobotnia Central",
+        "tr": "Merkez Ostrobotniya", "la": "Ostrobothnia Centralis", "sv": "Mellersta Österbotten"
+      }
+    },
+    {
+      "level1_id": "FI-13",
+      "type": "Maakunta",
+      "names": {
+        "bg": "Варсинайс-Суоми", "ca": "Finlàndia Pròpia", "hr": "Prava Finska", "nl": "Echt Finland", "en": "Southwest Finland",
+        "et": "Varsinais-Suomi", "fi": "Varsinais-Suomi", "fr": "Finlande propre", "de": "Eigentliches Finnland", "el": "Νοτιοδυτική Φινλανδία",
+        "ga": "An Fhionlann Iardheisceart", "it": "Finlandia Propria", "lv": "Īstā Somija", "lt": "Tikroji Suomija", "lb": "Eigentlecht Finnland",
+        "mt": "Finlandja Proprja", "pt": "Finlândia Própria", "sk": "Vlastné Fínsko", "sl": "Prava Finska", "es": "Finlandia Propria",
+        "tr": "Asıl Finlandiya", "la": "Finnia Propria", "sv": "Egentliga Finland"
+      }
+    },
+    {
+      "level1_id": "FI-14",
+      "type": "Maakunta",
+      "names": {
+        "bg": "Южна Карелия", "ca": "Carèlia del Sud", "hr": "Južna Karelija", "nl": "Zuid-Karelië", "en": "South Karelia",
+        "et": "Lõuna-Karjala", "fi": "Etelä-Karjala", "fr": "Carélie du Sud", "de": "Südkarelien", "el": "Νότια Καρελία",
+        "ga": "An Chairéil Theas", "it": "Carelia del Sud", "lv": "Dienvidkarelija", "lt": "Pietų Karelija", "lb": "Südkarelien",
+        "mt": "Karelija tan-Nofsinhar", "pt": "Carélia do Sul", "sk": "Južná Karélia", "sl": "Južna Karelija", "es": "Carelia del Sur",
+        "tr": "Güney Karelya", "la": "Carelia Meridionalis", "sv": "Södra Karelen"
+      }
+    },
+    {
+      "level1_id": "FI-15",
+      "type": "Maakunta",
+      "names": {
+        "bg": "Пяйат-Хяме", "ca": "Päijät-Häme", "hr": "Päijät-Häme", "nl": "Päijät-Häme", "en": "Päijät-Häme",
+        "et": "Päijät-Häme", "fi": "Päijät-Häme", "fr": "Päijät-Häme", "de": "Päijät-Häme", "el": "Πάιγιατ-Χέμε",
+        "ga": "Päijät-Häme", "it": "Päijät-Häme", "lv": "Peijate-Hēme", "lt": "Peijat Hėmė", "lb": "Päijät-Häme",
+        "mt": "Päijät-Häme", "pt": "Päijät-Häme", "sk": "Päijät-Häme", "sl": "Päijät-Häme", "es": "Päijät-Häme",
+        "tr": "Päijät-Häme", "la": "Paiat-Hame", "sv": "Päijänne-Tavastland"
+      }
+    },
+    {
+      "level1_id": "FI-16",
+      "type": "Maakunta",
+      "names": {
+        "bg": "Канта-Хяме",
+        "ca": "Kanta-Häme",
+        "hr": "Kanta-Häme",
+        "nl": "Kanta-Häme",
+        "en": "Kanta-Häme",
+        "et": "Kanta-Häme",
+        "fi": "Kanta-Häme",
+        "fr": "Kanta-Häme",
+        "de": "Kanta-Häme",
+        "el": "Κάντα-Χέμε",
+        "ga": "Kanta-Häme",
+        "it": "Kanta-Häme",
+        "lv": "Kanta-Hēme",
+        "lt": "Kanta Hėmė",
+        "lb": "Kanta-Häme",
+        "mt": "Kanta-Häme",
+        "pt": "Kanta-Häme",
+        "sk": "Kanta-Häme",
+        "sl": "Kanta-Häme",
+        "es": "Kanta-Häme",
+        "tr": "Kanta-Häme",
+        "la": "Canta-Hame",
+        "sv": "Egentliga Tavastland"
+      }
+    },
+    {
+      "level1_id": "FI-17",
+      "type": "Maakunta",
+      "names": {
+        "bg": "Кюменлааксо",
+        "ca": "Kymenlaakso",
+        "hr": "Kymenlaakso",
+        "nl": "Kymenlaakso",
+        "en": "Kymenlaakso",
+        "et": "Kymenlaakso",
+        "fi": "Kymenlaakso",
+        "fr": "Kymenlaakso",
+        "de": "Kymenlaakso",
+        "el": "Κυμενλάακσο",
+        "ga": "Kymenlaakso",
+        "it": "Kymenlaakso",
+        "lv": "Kimenlākso",
+        "lt": "Kimenlakso",
+        "lb": "Kymenlaakso",
+        "mt": "Kymenlaakso",
+        "pt": "Kymenlaakso",
+        "sk": "Kymenlaakso",
+        "sl": "Kymenlaakso",
+        "es": "Kymenlaakso",
+        "tr": "Kymenlaakso",
+        "la": "Cumenalax",
+        "sv": "Kymmenedalen"
+      }
+    },
+    {
+      "level1_id": "FI-18",
+      "type": "Maakunta",
+      "names": {
+        "bg": "Уусимаа",
+        "ca": "Uusimaa",
+        "hr": "Uusimaa",
+        "nl": "Uusimaa",
+        "en": "Uusimaa",
+        "et": "Uusimaa",
+        "fi": "Uusimaa",
+        "fr": "Uusimaa",
+        "de": "Uusimaa",
+        "el": "Ούσιμαα",
+        "ga": "Uusimaa",
+        "it": "Uusimaa",
+        "lv": "Ūsimā",
+        "lt": "Ūsima",
+        "lb": "Uusimaa",
+        "mt": "Uusimaa",
+        "pt": "Uusimaa",
+        "sk": "Uusimaa",
+        "sl": "Uusimaa",
+        "es": "Uusimaa",
+        "tr": "Uusimaa",
+        "la": "Nylandia",
+        "sv": "Nyland"
+      }
+    },
+    {
+      "level1_id": "FI-19",
+      "type": "Maakunta",
+      "names": {
+        "bg": "Оландски острови",
+        "ca": "Illes Åland",
+        "hr": "Ålandski otoci",
+        "nl": "Ålandeilanden",
+        "en": "Åland Islands",
+        "et": "Ahvenamaa",
+        "fi": "Ahvenanmaa",
+        "fr": "Ahvenanmaa",
+        "de": "Ålandinseln",
+        "el": "Νήσοι Όλαντ",
+        "ga": "Oileáin Åland",
+        "it": "Isole Åland",
+        "lv": "Olandes salas",
+        "lt": "Alandų salos",
+        "lb": "Ålandinselen",
+        "mt": "Gżejjer Åland",
+        "pt": "Ilhas Åland",
+        "sk": "Alandy",
+        "sl": "Alandski otoki",
+        "es": "Islas Åland",
+        "tr": "Åland Adaları",
+        "la": "Alandia",
+        "sv": "Åland"
+      }
     },
     {
       "iso_code": "FR",
