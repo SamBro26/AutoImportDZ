@@ -6032,38 +6032,527 @@
         "tr": "İspanya", "la": "Hispania", "sv": "Spanien"
       },
       "administrative_divisions": [
-        {
-          "level1_id": "ES-MD",
-          "type": "Comunidad Autónoma",
-          "names": {
-            "bg": "Мадрид (Област)", "ca": "Comunitat de Madrid", "hr": "Madrid (Zajednica)", "nl": "Madrid (Regio)", "en": "Community of Madrid",
-            "et": "Madridi autonoomne piirkond", "fi": "Madridin itsehallintoalue", "fr": "Communauté de Madrid", "de": "Autोनेome Gemeinschaft Madrid", "el": "Περιφέρεια Μαδρίτης",
-            "ga": "Comhphobal Maidrid", "it": "Comunità di Madrid", "lv": "Madridas apgabals", "lt": "Madrido regionas", "lb": "Regioun Madrid",
-            "mt": "Komunità ta' Madrid", "pt": "Comunidade de Madrid", "sk": "Madridský kraj", "sl": "Skupnost Madrid", "es": "Comunidad de Madrid",
-            "tr": "Madrid Özerk Topluluğu", "la": "Communitas Matriti", "sv": "Madrid region"
-          },
-          "level2_divisions": [
-            {
-              "level2_id": "ES-M",
-              "type": "Provincia",
-              "names": {
-                "bg": "Мадрид", "ca": "Madrid", "hr": "Madrid", "nl": "Madrid", "en": "Madrid",
-                "et": "Madrid", "fi": "Madrid", "fr": "Madrid", "de": "Madrid", "el": "Μαδρίτη",
-                "ga": "Maidrid", "it": "Madrid", "lv": "Madride", "lt": "Madridas", "lb": "Madrid",
-                "mt": "Madrid", "pt": "Madrid", "sk": "Madrid", "sl": "Madrid", "es": "Madrid",
-                "tr": "Madrid", "la": "Matritum", "sv": "Madrid"
-              },
-              "municipalities": [
-                {
-                  "municipality_id": "ES-M-28001",
-                  "name": "Madrid Centro",
-                  "postal_codes": ["28001"]
-                }
-              ]
-            }
-          ]
-        }
-      ]
+    {
+      "level1_id": "ES-AN",
+      "type": "Comunidad Autónoma",
+      "names": {
+        "bg": "Андалусия",
+        "ca": "Andalusia",
+        "hr": "Andaluzija",
+        "nl": "Andalusië",
+        "en": "Andalusia",
+        "et": "Andaluusia",
+        "fi": "Andalusia",
+        "fr": "Andalousie",
+        "de": "Andalusien",
+        "el": "Ανδαλουσία",
+        "ga": "An Andalúis",
+        "it": "Andalusia",
+        "lv": "Andalūzija",
+        "lt": "Andalūzija",
+        "lb": "Andalusien",
+        "mt": "Andalusia",
+        "pt": "Andaluzia",
+        "sk": "Andalúzia",
+        "sl": "Andaluzija",
+        "es": "Andalucía",
+        "tr": "Endülüs",
+        "la": "Vandalitia",
+        "sv": "Andalusien"
+      }
+    },
+    {
+      "level1_id": "ES-AR",
+      "type": "Comunidad Autónoma",
+      "names": {
+        "bg": "Арагон",
+        "ca": "Aragó",
+        "hr": "Aragon",
+        "nl": "Aragón",
+        "en": "Aragon",
+        "et": "Aragón",
+        "fi": "Aragonia",
+        "fr": "Aragon",
+        "de": "Aragonien",
+        "el": "Αραγονία",
+        "ga": "An Aragóin",
+        "it": "Aragona",
+        "lv": "Aragona",
+        "lt": "Aragonas",
+        "lb": "Aragonien",
+        "mt": "Aragon",
+        "pt": "Aragão",
+        "sk": "Aragónsko",
+        "sl": "Aragonija",
+        "es": "Aragón",
+        "tr": "Aragon",
+        "la": "Aragonia",
+        "sv": "Aragonien"
+      }
+    },
+    {
+      "level1_id": "ES-AS",
+      "type": "Comunidad Autónoma",
+      "names": {
+        "bg": "Астурия",
+        "ca": "Astúries",
+        "hr": "Asturija",
+        "nl": "Asturië",
+        "en": "Asturias",
+        "et": "Astuuria",
+        "fi": "Asturia",
+        "fr": "Asturies",
+        "de": "Asturien",
+        "el": "Αστούριες",
+        "ga": "Asturias",
+        "it": "Asturie",
+        "lv": "Astūrija",
+        "lt": "Asturija",
+        "lb": "Asturien",
+        "mt": "Asturja",
+        "pt": "Astúrias",
+        "sk": "Astúria",
+        "sl": "Asturija",
+        "es": "Asturias",
+        "tr": "Asturya",
+        "la": "Asturiae",
+        "sv": "Asturien"
+      }
+    },
+    {
+      "level1_id": "ES-IB",
+      "type": "Comunidad Autónoma",
+      "names": {
+        "bg": "Балеарски острови",
+        "ca": "Illes Balears",
+        "hr": "Baleari",
+        "nl": "Balearen",
+        "en": "Balearic Islands",
+        "et": "Baleaarid",
+        "fi": "Baleaarit",
+        "fr": "Îles Baléares",
+        "de": "Balearische Inseln",
+        "el": "Βαλεαρίδες Νήσοι",
+        "ga": "Oileáin Bhailéaracha",
+        "it": "Isole Baleari",
+        "lv": "Baleāru salas",
+        "lt": "Balearų salos",
+        "lb": "Balearesch Insele",
+        "mt": "Gżejjer Baleari",
+        "pt": "Ilhas Baleares",
+        "sk": "Baleáry",
+        "sl": "Balearski otoki",
+        "es": "Islas Baleares",
+        "tr": "Balear Adaları",
+        "la": "Insulae Baleares",
+        "sv": "Balearerna"
+      }
+    },
+    {
+      "level1_id": "ES-PV",
+      "type": "Comunidad Autónoma",
+      "names": {
+        "bg": "Баска страна",
+        "ca": "País Basc",
+        "hr": "Baskija",
+        "nl": "Baskenland",
+        "en": "Basque Country",
+        "et": "Baskimaa",
+        "fi": "Baskimaa",
+        "fr": "Pays basque",
+        "de": "Baskenland",
+        "el": "Χώρα των Βάσκων",
+        "ga": "Tír na mBascach",
+        "it": "Paesi Baschi",
+        "lv": "Basku Zeme",
+        "lt": "Baskija",
+        "lb": "Baskeland",
+        "mt": "Pajjiż Bask",
+        "pt": "País Basco",
+        "sk": "Baskicko",
+        "sl": "Baskija",
+        "es": "País Vasco",
+        "tr": "Bask Bölgesi",
+        "la": "Vasconia",
+        "sv": "Baskien"
+      }
+    },
+    {
+      "level1_id": "ES-CN",
+      "type": "Comunidad Autónoma",
+      "names": {
+        "bg": "Канарски острови",
+        "ca": "Illes Canàries",
+        "hr": "Kanari",
+        "nl": "Canarische Eilanden",
+        "en": "Canary Islands",
+        "et": "Kanارية",
+        "fi": "Kanariansaaret",
+        "fr": "Îles Canaries",
+        "de": "Kanarische Inseln",
+        "el": "Κανάριοι Νήσοι",
+        "ga": "Oileáin Chanáracha",
+        "it": "Isole Canarie",
+        "lv": "Kanārijas salas",
+        "lt": "Kanarų salos",
+        "lb": "Kanaresch Insele",
+        "mt": "Gżejjer Kanarji",
+        "pt": "Ilhas Canárias",
+        "sk": "Kanárske ostrovy",
+        "sl": "Kanarski otoki",
+        "es": "Islas Canarias",
+        "tr": "Kanarya Adaları",
+        "la": "Fortunatae Insulae",
+        "sv": "Kanarieöarna"
+      }
+    },
+    {
+      "level1_id": "ES-CT",
+      "type": "Comunidad Autónoma",
+      "names": {
+        "bg": "Каталуния",
+        "ca": "Catalunya",
+        "hr": "Katalonija",
+        "nl": "Catalonië",
+        "en": "Catalonia",
+        "et": "Kataloonia",
+        "fi": "Katalonia",
+        "fr": "Catalogne",
+        "de": "Katalonien",
+        "el": "Καταλονία",
+        "ga": "An Chatalóin",
+        "it": "Catalogna",
+        "lv": "Katalonija",
+        "lt": "Katalonija",
+        "lb": "Katalonien",
+        "mt": "Katalonja",
+        "pt": "Catalunha",
+        "sk": "Katalánsko",
+        "sl": "Katalonija",
+        "es": "Cataluña",
+        "tr": "Katalonya",
+        "la": "Catalonia",
+        "sv": "Katalonien"
+      }
+    },
+    {
+      "level1_id": "ES-CL",
+      "type": "Comunidad Autónoma",
+      "names": {
+        "bg": "Кастилия и Леон",
+        "ca": "Castella i Lleó",
+        "hr": "Kastilja i León",
+        "nl": "Castilië en León",
+        "en": "Castile and León",
+        "et": "Castilla-León",
+        "fi": "Kastilia ja León",
+        "fr": "Castille-et-León",
+        "de": "Kastilien und León",
+        "el": "Καστίλη και Λεόν",
+        "ga": "Castile and León",
+        "it": "Castiglia e León",
+        "lv": "Kastīlija un Leona",
+        "lt": "Kastilija ir Leonas",
+        "lb": "Kastilien an León",
+        "mt": "Castile u León",
+        "pt": "Castela e Leão",
+        "sk": "Kastília a León",
+        "sl": "Kastilija in Leon",
+        "es": "Castilla y León",
+        "tr": "Kastilya ve Leon",
+        "la": "Castella et Legio",
+        "sv": "Castilla y León"
+      }
+    },
+    {
+      "level1_id": "ES-CM",
+      "type": "Comunidad Autónoma",
+      "names": {
+        "bg": "Кастилия-Ла Манча",
+        "ca": "Castella-la Manxa",
+        "hr": "Kastilja-La Mancha",
+        "nl": "Castilië-La Mancha",
+        "en": "Castile-La Mancha",
+        "et": "Castilla-La Mancha",
+        "fi": "Kastilia-La Mancha",
+        "fr": "Castille-La Manche",
+        "de": "Kastilien-La Mancha",
+        "el": "Καστίλη-Λα Μάντσα",
+        "ga": "Castile-La Mancha",
+        "it": "Castiglia-La Mancia",
+        "lv": "Kastīlija-La Manča",
+        "lt": "Kastilija-La Manča",
+        "lb": "Kastilien-La Mancha",
+        "mt": "Castile-La Mancha",
+        "pt": "Castela-La Mancha",
+        "sk": "Kastília-La Mancha",
+        "sl": "Kastilija-La Manča",
+        "es": "Castilla-La Mancha",
+        "tr": "Kastilya-La Mancha",
+        "la": "Castella-Manica",
+        "sv": "Castilla-La Mancha"
+      }
+    },
+    {
+      "level1_id": "ES-EX",
+      "type": "Comunidad Autónoma",
+      "names": {
+        "bg": "Естремадура",
+        "ca": "Extremadura",
+        "hr": "Ekstremadura",
+        "nl": "Extremadura",
+        "en": "Extremadura",
+        "et": "Extremadura",
+        "fi": "Extremadura",
+        "fr": "Estrémadure",
+        "de": "Extremadura",
+        "el": "Εξτρεμαδούρα",
+        "ga": "Extremadura",
+        "it": "Estremadura",
+        "lv": "Ekstremadura",
+        "lt": "Ekstremadūra",
+        "lb": "Extremadura",
+        "mt": "Extremadura",
+        "pt": "Estremadura",
+        "sk": "Extremadura",
+        "sl": "Ekstremadura",
+        "es": "Extremadura",
+        "tr": "Extremadura",
+        "la": "Extremadura",
+        "sv": "Extremadura"
+      }
+    },
+    {
+      "level1_id": "ES-GA",
+      "type": "Comunidad Autónoma",
+      "names": {
+        "bg": "Галисия",
+        "ca": "Galícia",
+        "hr": "Galicija",
+        "nl": "Galicië",
+        "en": "Galicia",
+        "et": "Galicia",
+        "fi": "Galicia",
+        "fr": "Galice",
+        "de": "Galicien",
+        "el": "Γαλικία",
+        "ga": "An Ghailís",
+        "it": "Galizia",
+        "lv": "Galisija",
+        "lt": "Galisija",
+        "lb": "Galicien",
+        "mt": "Galizja",
+        "pt": "Galiza",
+        "sk": "Galícia",
+        "sl": "Galicija",
+        "es": "Galicia",
+        "tr": "Galiçya",
+        "la": "Gallaecia",
+        "sv": "Galicien"
+      }
+    },
+    {
+      "level1_id": "ES-MD",
+      "type": "Comunidad Autónoma",
+      "names": {
+        "bg": "Мадрид (Област)",
+        "ca": "Comunitat de Madrid",
+        "hr": "Madrid (Zajednica)",
+        "nl": "Madrid (Regio)",
+        "en": "Community of Madrid",
+        "et": "Madridi autonoomne piirkond",
+        "fi": "Madridin itsehallintoalue",
+        "fr": "Communauté de Madrid",
+        "de": "Autoneome Gemeinschaft Madrid",
+        "el": "Περιφέρεια Μαδρίτης",
+        "ga": "Comhphobal Maidrid",
+        "it": "Comunità di Madrid",
+        "lv": "Madridas apgabals",
+        "lt": "Madrido regionas",
+        "lb": "Regioun Madrid",
+        "mt": "Komunità ta' Madrid",
+        "pt": "Comunidade de Madrid",
+        "sk": "Madridský kraj",
+        "sl": "Skupnost Madrid",
+        "es": "Comunidad de Madrid",
+        "tr": "Madrid Özerk Topluluğu",
+        "la": "Communitas Matriti",
+        "sv": "Madrid region"
+      }
+    },
+    {
+      "level1_id": "ES-MC",
+      "type": "Comunidad Autónoma",
+      "names": {
+        "bg": "Мурсия",
+        "ca": "Múrcia",
+        "hr": "Murcia",
+        "nl": "Murcia",
+        "en": "Murcia",
+        "et": "Murcia",
+        "fi": "Murcia",
+        "fr": "Murcie",
+        "de": "Murcia",
+        "el": "Μούρθια",
+        "ga": "Murcia",
+        "it": "Murcia",
+        "lv": "Mursija",
+        "lt": "Mursija",
+        "lb": "Murcia",
+        "mt": "Murcia",
+        "pt": "Múrcia",
+        "sk": "Murcia",
+        "sl": "Murcia",
+        "es": "Región de Murcia",
+        "tr": "Murcia",
+        "la": "Murcia",
+        "sv": "Murcia"
+      }
+    },
+    {
+      "level1_id": "ES-NC",
+      "type": "Comunidad Autónoma",
+      "names": {
+        "bg": "Навара",
+        "ca": "Navarra",
+        "hr": "Navara",
+        "nl": "Navarra",
+        "en": "Navarre",
+        "et": "Navarra",
+        "fi": "Navarra",
+        "fr": "Navarre",
+        "de": "Navarra",
+        "el": "Ναβάρα",
+        "ga": "Navarre",
+        "it": "Navarra",
+        "lv": "Navarra",
+        "lt": "Navara",
+        "lb": "Navarra",
+        "mt": "Navarre",
+        "pt": "Navarra",
+        "sk": "Navarra",
+        "sl": "Navarra",
+        "es": "Comunidad Foral de Navarra",
+        "tr": "Navarra",
+        "la": "Navarra",
+        "sv": "Navarra"
+      }
+    },
+    {
+      "level1_id": "ES-RI",
+      "type": "Comunidad Autónoma",
+      "names": {
+        "bg": "Ла Риоха",
+        "ca": "La Rioja",
+        "hr": "La Rioja",
+        "nl": "La Rioja",
+        "en": "La Rioja",
+        "et": "La Rioja",
+        "fi": "La Rioja",
+        "fr": "La Rioja",
+        "de": "La Rioja",
+        "el": "Λα Ριόχα",
+        "ga": "La Rioja",
+        "it": "La Rioja",
+        "lv": "Rioha",
+        "lt": "La Riocha",
+        "lb": "La Rioja",
+        "mt": "La Rioja",
+        "pt": "La Rioja",
+        "sk": "La Rioja",
+        "sl": "La Rioja",
+        "es": "La Rioja",
+        "tr": "La Rioja",
+        "la": "Riovia",
+        "sv": "La Rioja"
+      }
+    },
+    {
+      "level1_id": "ES-VC",
+      "type": "Comunidad Autónoma",
+      "names": {
+        "bg": "Валенсия",
+        "ca": "Comunitat Valenciana",
+        "hr": "Valencija",
+        "nl": "Valencia",
+        "en": "Valencian Community",
+        "et": "Valencia",
+        "fi": "Valencia",
+        "fr": "Valence",
+        "de": "Valencia",
+        "el": "Βαλένθια",
+        "ga": "Comhphobal Valencia",
+        "it": "Comunità Valenciana",
+        "lv": "Valensija",
+        "lt": "Valensija",
+        "lb": "Valencia",
+        "mt": "Valencia",
+        "pt": "Comunidade Valenciana",
+        "sk": "Valencijské spoločenstvo",
+        "sl": "Valencija",
+        "es": "Comunidad Valenciana",
+        "tr": "Valensiya",
+        "la": "Valentia",
+        "sv": "Valencia"
+      }
+    },
+    {
+      "level1_id": "ES-CE",
+      "type": "Ciudad Autónoma",
+      "names": {
+        "bg": "Сеута",
+        "ca": "Ceuta",
+        "hr": "Ceuta",
+        "nl": "Ceuta",
+        "en": "Ceuta",
+        "et": "Ceuta",
+        "fi": "Ceuta",
+        "fr": "Ceuta",
+        "de": "Ceuta",
+        "el": "Θέουτα",
+        "ga": "Ceuta",
+        "it": "Ceuta",
+        "lv": "Seuta",
+        "lt": "Seuta",
+        "lb": "Ceuta",
+        "mt": "Ceuta",
+        "pt": "Ceuta",
+        "sk": "Ceuta",
+        "sl": "Ceuta",
+        "es": "Ceuta",
+        "tr": "Ceuta",
+        "la": "Septa",
+        "sv": "Ceuta"
+      }
+    },
+    {
+      "level1_id": "ES-ME",
+      "type": "Ciudad Autónoma",
+      "names": {
+        "bg": "Мелиля",
+        "ca": "Melilla",
+        "hr": "Melilla",
+        "nl": "Melilla",
+        "en": "Melilla",
+        "et": "Melilla",
+        "fi": "Melilla",
+        "fr": "Melilla",
+        "de": "Melilla",
+        "el": "Μελίλια",
+        "ga": "Melilla",
+        "it": "Melilla",
+        "lv": "Melilja",
+        "lt": "Melilja",
+        "lb": "Melilla",
+        "mt": "Melilla",
+        "pt": "Melilha",
+        "sk": "Melilla",
+        "sl": "Melilla",
+        "es": "Melilla",
+        "tr": "Melilla",
+        "la": "Rusadir",
+        "sv": "Melilla"
+      }
     },
     {
     "iso_code": "AD",
@@ -6077,75 +6566,36 @@
       "tr": "Andorra", "la": "Andorra", "sv": "Andorra"
     },
     "administrative_divisions": [
-      {
-        "level1_id": "AD-07",
-        "type": "Parròquia",
-        "names": {
-          "bg": "Андора ла Веля",
-          "ca": "Andorra la Vella",
-          "hr": "Andorra la Vella",
-          "nl": "Andorra la Vella",
-          "en": "Andorra la Vella",
-          "et": "Andorra la Vella",
-          "fi": "Andorra la Vella",
-          "fr": "Andorre-la-Vieille",
-          "de": "Andorra la Vella",
-          "el": "Ανδόρα λα Βέγια",
-          "ga": "Andorra la Vella",
-          "it": "Andorra la Vella",
-          "lv": "Andora la Velja",
-          "lt": "Andora la Velja",
-          "lb": "Andorra la Vella",
-          "mt": "Andorra la Vella",
-          "pt": "Andorra-a-Velha",
-          "sk": "Andorra la Vella",
-          "sl": "Andorra la Vella",
-          "es": "Andorra la Vella",
-          "tr": "Andorra la Vella",
-          "la": "Andorra la Vella",
-          "sv": "Andorra la Vella"
-        },
-        "level2_divisions": [
-          {
-            "level2_id": "AD-07-Q",
-            "type": "Quart",
-            "names": {
-              "bg": "Андора Град",
-              "ca": "Andorra la Vella (Vila)",
-              "hr": "Andora (Grad)",
-              "nl": "Andorra Stad",
-              "en": "Andorra la Vella Town",
-              "et": "Andorra linn",
-              "fi": "Andorran kaupunki",
-              "fr": "Quartier d'Andorre",
-              "de": "Andorra Stadt",
-              "el": "Πόλη της Ανδόρας",
-              "ga": "Baile Andorra",
-              "it": "Andorra Centro",
-              "lv": "Andoras pilsēta",
-              "lt": "Andoros miestas",
-              "lb": "Andorra Stad",
-              "mt": "Belt ta' Andorra",
-              "pt": "Vila de Andorra",
-              "sk": "Mesto Andorra",
-              "sl": "Mesto Andorra",
-              "es": "Villa de Andorra",
-              "tr": "Andorra Şehri",
-              "la": "Andorra Urbs",
-              "sv": "Andorra stad"
-            },
-            "municipalities": [
-              {
-                "municipality_id": "AD-M-500",
-                "name": "Andorra la Vella Centro",
-                "postal_codes": ["AD500"]
-              }
-            ]
-          }
-        ]
+    {
+      "level1_id": "AD-07",
+      "type": "Parròquia",
+      "names": {
+        "bg": "Андора ла Веля",
+        "ca": "Andorra la Vella",
+        "hr": "Andorra la Vella",
+        "nl": "Andorra la Vella",
+        "en": "Andorra la Vella",
+        "et": "Andorra la Vella",
+        "fi": "Andorra la Vella",
+        "fr": "Andorre-la-Vieille",
+        "de": "Andorra la Vella",
+        "el": "Ανδόρα λα Βέγια",
+        "ga": "Andorra la Vella",
+        "it": "Andorra la Vella",
+        "lv": "Andora la Velja",
+        "lt": "Andora la Velja",
+        "lb": "Andorra la Vella",
+        "mt": "Andorra la Vella",
+        "pt": "Andorra-a-Velha",
+        "sk": "Andorra la Vella",
+        "sl": "Andorra la Vella",
+        "es": "Andorra la Vella",
+        "tr": "Andorra la Vella",
+        "la": "Andorra la Vella",
+        "sv": "Andorra la Vella"
       }
-    ]
-  },
+    }
+  ],
   {
     "iso_code": "MC",
     "capital": "Monaco",
@@ -6158,75 +6608,36 @@
       "tr": "Monako", "la": "Monacus", "sv": "Monaco"
     },
     "administrative_divisions": [
-      {
-        "level1_id": "MC-MC",
-        "type": "Quartier",
-        "names": {
-          "bg": "Монте Карло",
-          "ca": "Montcarles",
-          "hr": "Monte Carlo",
-          "nl": "Monte Carlo",
-          "en": "Monte Carlo",
-          "et": "Monte Carlo",
-          "fi": "Monte Carlo",
-          "fr": "Monte-Carlo",
-          "de": "Monte Carlo",
-          "el": "Μόντε Κάρλο",
-          "ga": "Monte Carlo",
-          "it": "Monte Carlo",
-          "lv": "Montekarlo",
-          "lt": "Monte Karlas",
-          "lb": "Monte Carlo",
-          "mt": "Monte Carlo",
-          "pt": "Monte Carlo",
-          "sk": "Monte Carlo",
-          "sl": "Monte Carlo",
-          "es": "Montecarlo",
-          "tr": "Monte Carlo",
-          "la": "Mons Caroli",
-          "sv": "Monte Carlo"
-        },
-        "level2_divisions": [
-          {
-            "level2_id": "MC-CAS",
-            "type": "Secteur",
-            "names": {
-              "bg": "Казино",
-              "ca": "Casino",
-              "hr": "Casino",
-              "nl": "Casino",
-              "en": "Casino Sector",
-              "et": "Casino",
-              "fi": "Casino",
-              "fr": "Secteur du Casino",
-              "de": "Casino Sektor",
-              "el": "Καζίνο",
-              "ga": "Casino",
-              "it": "Casino",
-              "lv": "Kazino",
-              "lt": "Kazino",
-              "lb": "Casino",
-              "mt": "Casino",
-              "pt": "Casino",
-              "sk": "Casino",
-              "sl": "Kazino",
-              "es": "Casino",
-              "tr": "Casino",
-              "la": "Casino",
-              "sv": "Casino"
-            },
-            "municipalities": [
-              {
-                "municipality_id": "MC-M-98000",
-                "name": "Monte Carlo Commune",
-                "postal_codes": ["98000"]
-              }
-            ]
-          }
-        ]
+    {
+      "level1_id": "MC-MC",
+      "type": "Quartier",
+      "names": {
+        "bg": "Монте Карло",
+        "ca": "Montcarles",
+        "hr": "Monte Carlo",
+        "nl": "Monte Carlo",
+        "en": "Monte Carlo",
+        "et": "Monte Carlo",
+        "fi": "Monte Carlo",
+        "fr": "Monte-Carlo",
+        "de": "Monte Carlo",
+        "el": "Μόντε Κάρλο",
+        "ga": "Monte Carlo",
+        "it": "Monte Carlo",
+        "lv": "Montekarlo",
+        "lt": "Monte Karlas",
+        "lb": "Monte Carlo",
+        "mt": "Monte Carlo",
+        "pt": "Monte Carlo",
+        "sk": "Monte Carlo",
+        "sl": "Monte Carlo",
+        "es": "Montecarlo",
+        "tr": "Monte Carlo",
+        "la": "Mons Caroli",
+        "sv": "Monte Carlo"
       }
-    ]
-  },
+    }
+  ],
   {
     "iso_code": "SM",
     "capital": "San Marino",
@@ -6239,75 +6650,36 @@
       "tr": "San Marino", "la": "Sancti Marini", "sv": "San Marino"
     },
     "administrative_divisions": [
-      {
-        "level1_id": "SM-01",
-        "type": "Castello",
-        "names": {
-          "bg": "Сан Марино (Кастело)",
-          "ca": "Ciutat de San Marino",
-          "hr": "Città di San Marino",
-          "nl": "Città di San Marino",
-          "en": "San Marino City",
-          "et": "San Marino linn",
-          "fi": "San Marinon kaupunki",
-          "fr": "Ville de Saint-Marin",
-          "de": "San Marino Stadt",
-          "el": "Πόλη του Αγίου Μαρίνου",
-          "ga": "Cathair San Mairíneo",
-          "it": "Città di San Marino",
-          "lv": "Sanmarīno pilsēta",
-          "lt": "San Marino miestas",
-          "lb": "San Marino Stad",
-          "mt": "Belt ta' San Marino",
-          "pt": "Cidade de San Marino",
-          "sk": "Mesto San Maríno",
-          "sl": "Mesto San Marino",
-          "es": "Ciudad de San Marino",
-          "tr": "San Marino Şehri",
-          "la": "Sanctus Marinus Urbs",
-          "sv": "San Marino stad"
-        },
-        "level2_divisions": [
-          {
-            "level2_id": "SM-01-P",
-            "type": "Parrocchia",
-            "names": {
-              "bg": "Сан Марино",
-              "ca": "San Marino",
-              "hr": "San Marino",
-              "nl": "San Marino",
-              "en": "San Marino",
-              "et": "San Marino",
-              "fi": "San Marino",
-              "fr": "Saint-Marin",
-              "de": "San Marino",
-              "el": "Άγιος Μαρίνος",
-              "ga": "San Mairíneo",
-              "it": "San Marino",
-              "lv": "Sanmarīno",
-              "lt": "San Marinas",
-              "lb": "San Marino",
-              "mt": "San Marino",
-              "pt": "San Marino",
-              "sk": "San Maríno",
-              "sl": "San Marino",
-              "es": "San Marino",
-              "tr": "San Marino",
-              "la": "Sanctus Marinus",
-              "sv": "San Marino"
-            },
-            "municipalities": [
-              {
-                "municipality_id": "SM-M-47890",
-                "name": "Città di San Marino Centro",
-                "postal_codes": ["47890"]
-              }
-            ]
-          }
-        ]
+    {
+      "level1_id": "SM-01",
+      "type": "Castello",
+      "names": {
+        "bg": "Сан Марино (Кастело)",
+        "ca": "Ciutat de San Marino",
+        "hr": "Città di San Marino",
+        "nl": "Città di San Marino",
+        "en": "San Marino City",
+        "et": "San Marino linn",
+        "fi": "San Marinon kaupunki",
+        "fr": "Ville de Saint-Marin",
+        "de": "San Marino Stadt",
+        "el": "Πόλη του Αγίου Μαρίνου",
+        "ga": "Cathair San Mairíneo",
+        "it": "Città di San Marino",
+        "lv": "Sanmarīno pilsēta",
+        "lt": "San Marino miestas",
+        "lb": "San Marino Stad",
+        "mt": "Belt ta' San Marino",
+        "pt": "Cidade de San Marino",
+        "sk": "Mesto San Maríno",
+        "sl": "Mesto San Marino",
+        "es": "Ciudad de San Marino",
+        "tr": "San Marino Şehri",
+        "la": "Sanctus Marinus Urbs",
+        "sv": "San Marino stad"
       }
-    ]
-  },
+    }
+  ],
     {
   "iso_code": "VA",
   "capital": "Vatican City",
@@ -6365,53 +6737,11 @@
         "tr": "Vatikan Devleti",
         "la": "Status Civitatis Vaticanae",
         "sv": "Vatikanstaten"
-      },
-      "level2_divisions": [
-        {
-          "level2_id": "VA-01-Z",
-          "type": "Zona",
-          "names": {
-            "bg": "Ватикан",
-            "ca": "Vaticà",
-            "hr": "Vatikan",
-            "nl": "Vaticaan",
-            "en": "Vatican Zone",
-            "et": "Vatikan",
-            "fi": "Vatikaani",
-            "fr": "Vatican",
-            "de": "Vatikan",
-            "el": "Βατικανό",
-            "ga": "Vatacáin",
-            "it": "Vaticano",
-            "lv": "Vatikāns",
-            "lt": "Vatikanas",
-            "lb": "Vatikan",
-            "mt": "Vatikan",
-            "pt": "Vaticano",
-            "sk": "Vatikán",
-            "sl": "Vatikan",
-            "es": "Vaticano",
-            "tr": "Vatikan",
-            "la": "Vaticanus",
-            "sv": "Vatikanen"
-          },
-          "municipalities": [
-            {
-              "municipality_id": "VA-M-00120",
-              "name": "Vatican City Centro",
-              "postal_codes": [
-                "00120"
-              ]
-                              }
-              ]
             }
-          ]
-        }
-      ]
-    }
-  ]
-}
-
-
+          }
+        ]
+      }
+   ]
+}  
 
 
