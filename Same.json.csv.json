@@ -170,39 +170,51 @@
         "tr": "Bulgaristan", "la": "Bulgaria", "sv": "Bulgarien"
       },
       "administrative_divisions": [
-        {
-          "level1_id": "BG-22",
-          "type": "Oblast",
-          "names": {
-            "bg": "София-град", "ca": "Sofia-ciutat", "hr": "Sofija-grad", "nl": "Sofia-stad", "en": "Sofia City",
-            "et": "Sofia linn", "fi": "Sofia kaupunki", "fr": "Sofia-ville", "de": "Sofia-Stadt", "el": "Σόφια (Πόλη)",
-            "ga": "Cathair Shóifia", "it": "Sofia Città", "lv": "Sofijas pilsēta", "lt": "Sofijos miestas", "lb": "Sofia Stad",
-            "mt": "Belt ta' Sofija", "pt": "Sófia Cidade", "sk": "Sofia-mesto", "sl": "Sofija-mesto", "es": "Sofía Ciudad",
-            "tr": "Sofya Şehri", "la": "Sofia Urbs", "sv": "Sofia Stad"
-          },
-          "level2_divisions": [
-            {
-              "level2_id": "BG-22-S",
-              "type": "Obshtina",
-              "names": {
-                "bg": "Столична", "ca": "Stolichna", "hr": "Stolichna", "nl": "Stolichna", "en": "Stolichna",
-                "et": "Stolichna", "fi": "Stolichna", "fr": "Stolichna", "de": "Stolichna", "el": "Στολίτσна",
-                "ga": "Stolichna", "it": "Stolichna", "lv": "Stolična", "lt": "Stolična", "lb": "Stolichna",
-                "mt": "Stolichna", "pt": "Stolichna", "sk": "Stolichna", "sl": "Stolichna", "es": "Stolichna",
-                "tr": "Stolichna", "la": "Stolichna", "sv": "Stolichna"
-              },
-              "municipalities": [
-                {
-                  "municipality_id": "BG-M-1000",
-                  "name": "Sofia Centro",
-                  "postal_codes": ["1000"]
-                }
-              ]
-            }
-          ]
-        }
-      ]
+    {
+      "level1_id": "BG-22",
+      "type": "Oblast",
+      "names": {
+        "bg": "София-град", "ca": "Sofia-ciutat", "hr": "Sofija-grad", "nl": "Sofia-stad", "en": "Sofia City",
+        "et": "Sofia linn", "fi": "Sofia kaupunki", "fr": "Sofia-ville", "de": "Sofia-Stadt", "el": "Σόφια (Πόλη)",
+        "ga": "Cathair Shóifia", "it": "Sofia Città", "lv": "Sofijas pilsēta", "lt": "Sofijos miestas", "lb": "Sofia Stad",
+        "mt": "Belt ta' Sofija", "pt": "Sófia Cidade", "sk": "Sofia-mesto", "sl": "Sofija-mesto", "es": "Sofía Ciudad",
+        "tr": "Sofya Şehri", "la": "Sofia Urbs", "sv": "Sofia Stad"
+      }
     },
+    {
+      "level1_id": "BG-15",
+      "type": "Oblast",
+      "names": {
+        "bg": "Пловдив", "ca": "Plóvdiv", "hr": "Plovdiv", "nl": "Plovdiv", "en": "Plovdiv",
+        "et": "Plovdiv", "fi": "Plovdiv", "fr": "Plovdiv", "de": "Plovdiv", "el": "Φιλιππούπολη",
+        "ga": "Plovdiv", "it": "Plovdiv", "lv": "Plovdiva", "lt": "Plovdivas", "lb": "Plovdiv",
+        "mt": "Plovdiv", "pt": "Plovdiv", "sk": "Plovdiv", "sl": "Plovdiv", "es": "Plovdiv",
+        "tr": "Filibe", "la": "Eumolpias", "sv": "Plovdiv"
+      }
+    },
+    {
+      "level1_id": "BG-02",
+      "type": "Oblast",
+      "names": {
+        "bg": "Варна", "ca": "Varna", "hr": "Varna", "nl": "Varna", "en": "Varna",
+        "et": "Varna", "fi": "Varna", "fr": "Varna", "de": "Varna", "el": "Βάρνα",
+        "ga": "Varna", "it": "Varna", "lv": "Varna", "lt": "Varna", "lb": "Varna",
+        "mt": "Varna", "pt": "Varna", "sk": "Varna", "sl": "Varna", "es": "Varna",
+        "tr": "Varna", "la": "Odessus", "sv": "Varna"
+      }
+    },
+    {
+      "level1_id": "BG-03",
+      "type": "Oblast",
+      "names": {
+        "bg": "Бургас", "ca": "Burgàs", "hr": "Burgas", "nl": "Burgas", "en": "Burgas",
+        "et": "Burgas", "fi": "Burgas", "fr": "Burgas", "de": "Burgas", "el": "Πύργος",
+        "ga": "Burgas", "it": "Burgas", "lv": "Burgasa", "lt": "Burgasas", "lb": "Burgas",
+        "mt": "Burgas", "pt": "Burgas", "sk": "Burgas", "sl": "Burgas", "es": "Burgas",
+        "tr": "Burgaz", "la": "Pyrgos", "sv": "Burgas"
+      }
+    }
+  ],
     {
       "iso_code": "HR",
       "capital": "Zagreb",
