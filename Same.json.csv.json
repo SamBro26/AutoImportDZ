@@ -3709,39 +3709,152 @@
         "tr": "Letonya", "la": "Lettonia", "sv": "Lettland"
       },
       "administrative_divisions": [
-        {
-          "level1_id": "LV-R",
-          "type": "Plānošanas reģions",
-          "names": {
-            "bg": "Рига Регион", "ca": "Regió de Riga", "hr": "Regija Riga", "nl": "Regio Riga", "en": "Riga Region",
-            "et": "Riia regioon", "fi": "Riian alue", "fr": "Région de Riga", "de": "Region Riga", "el": "Περιφέρεια Ρίγας",
-            "ga": "Réigiún Ríge", "it": "Regione di Riga", "lv": "Rīgas reģions", "lt": "Rygos regionas", "lb": "Regioun Riga",
-            "mt": "Reġjun ta' Riga", "pt": "Região de Riga", "sk": "Región Riga", "sl": "Regija Riga", "es": "Región de Riga",
-            "tr": "Riga Bölgesi", "la": "Regio Riga", "sv": "Rigaregionen"
-          },
-          "level2_divisions": [
-            {
-              "level2_id": "LV-RIX",
-              "type": "Valstspilsēta",
-              "names": {
-                "bg": "Рига", "ca": "Riga", "hr": "Riga", "nl": "Riga", "en": "Riga",
-                "et": "Riia", "fi": "Riika", "fr": "Riga", "de": "Riga", "el": "Ρίγα",
-                "ga": "Ríge", "it": "Riga", "lv": "Rīga", "lt": "Ryga", "lb": "Riga",
-                "mt": "Riga", "pt": "Riga", "sk": "Riga", "sl": "Riga", "es": "Riga",
-                "tr": "Riga", "la": "Riga", "sv": "Riga"
-              },
-              "municipalities": [
-                {
-                  "municipality_id": "LV-M-1050",
-                  "name": "Centra rajons",
-                  "postal_codes": ["LV-1050"]
-                }
-              ]
-            }
-          ]
-        }
-      ]
+    {
+      "level1_id": "LV-R",
+      "type": "Plānošanas reģions",
+      "names": {
+        "bg": "Рига Регион",
+        "ca": "Regió de Riga",
+        "hr": "Regija Riga",
+        "nl": "Regio Riga",
+        "en": "Riga Region",
+        "et": "Riia regioon",
+        "fi": "Riian alue",
+        "fr": "Région de Riga",
+        "de": "Region Riga",
+        "el": "Περιφέρεια Ρίγας",
+        "ga": "Réigiún Ríge",
+        "it": "Regione di Riga",
+        "lv": "Rīgas reģions",
+        "lt": "Rygos regionas",
+        "lb": "Regioun Riga",
+        "mt": "Reġjun ta' Riga",
+        "pt": "Região de Riga",
+        "sk": "Región Riga",
+        "sl": "Regija Riga",
+        "es": "Región de Riga",
+        "tr": "Riga Bölgesi",
+        "la": "Regio Riga",
+        "sv": "Rigaregionen"
+      }
     },
+    {
+      "level1_id": "LV-K",
+      "type": "Plānošanas reģions",
+      "names": {
+        "bg": "Курландия",
+        "ca": "Curlàndia",
+        "hr": "Kurlandija",
+        "nl": "Koerland",
+        "en": "Courland",
+        "et": "Kuramaa",
+        "fi": "Kúrinmaa",
+        "fr": "Courlande",
+        "de": "Kurland",
+        "el": "Κουρλάνδη",
+        "ga": "Courland",
+        "it": "Curlandia",
+        "lv": "Kurzemes reģions",
+        "lt": "Kuršas",
+        "lb": "Kurland",
+        "mt": "Kurlandja",
+        "pt": "Curlandia",
+        "sk": "Kurzemsko",
+        "sl": "Kurlandija",
+        "es": "Curlandia",
+        "tr": "Kurlandiya",
+        "la": "Curonia",
+        "sv": "Kurland"
+      }
+    },
+    {
+      "level1_id": "LV-L",
+      "type": "Plānošanas reģions",
+      "names": {
+        "bg": "Латгалия",
+        "ca": "Latgàlia",
+        "hr": "Latgalija",
+        "nl": "Letgallen",
+        "en": "Latgale",
+        "et": "Latgale",
+        "fi": "Latgale",
+        "fr": "Latgale",
+        "de": "Lettgallen",
+        "el": "Λατγαλία",
+        "ga": "Latgale",
+        "it": "Latgalia",
+        "lv": "Latgales reģions",
+        "lt": "Latgala",
+        "lb": "Lettgallen",
+        "mt": "Latgale",
+        "pt": "Latgália",
+        "sk": "Latgalsko",
+        "sl": "Latgalija",
+        "es": "Latgalia",
+        "tr": "Latgale",
+        "la": "Latgalia",
+        "sv": "Latgale"
+      }
+    },
+    {
+      "level1_id": "LV-V",
+      "type": "Plānošanas reģions",
+      "names": {
+        "bg": "Ливония",
+        "ca": "Vidzeme",
+        "hr": "Vidzeme",
+        "nl": "Vidzeme",
+        "en": "Vidzeme",
+        "et": "Vidzeme",
+        "fi": "Vidzeme",
+        "fr": "Vidzeme",
+        "de": "Livland",
+        "el": "Βίντζεμε",
+        "ga": "Vidzeme",
+        "it": "Vidzeme",
+        "lv": "Vidzemes reģions",
+        "lt": "Vidžemė",
+        "lb": "Vidzeme",
+        "mt": "Vidzeme",
+        "pt": "Vidzeme",
+        "sk": "Vidzemsko",
+        "sl": "Vidzeme",
+        "es": "Vidzeme",
+        "tr": "Vidzeme",
+        "la": "Livonia",
+        "sv": "Vidzeme"
+      }
+    },
+    {
+      "level1_id": "LV-Z",
+      "type": "Plānošanas reģions",
+      "names": {
+        "bg": "Земгале",
+        "ca": "Semigàlia",
+        "hr": "Semigalija",
+        "nl": "Semgallen",
+        "en": "Semigallia",
+        "et": "Semgali",
+        "fi": "Semigallia",
+        "fr": "Semigalie",
+        "de": "Semgallen",
+        "el": "Σεμιγαλία",
+        "ga": "Semigallia",
+        "it": "Semigallia",
+        "lv": "Zemgales reģions",
+        "lt": "Žiemgala",
+        "lb": "Semgallen",
+        "mt": "Semigallia",
+        "pt": "Semigália",
+        "sk": "Semigalsko",
+        "sl": "Semigalija",
+        "es": "Semigalia",
+        "tr": "Semigalliya",
+        "la": "Semigallia",
+        "sv": "Semgallen"
+      }
+    }
+  ],
     {
       "iso_code": "LT",
       "capital": "Vilnius",
