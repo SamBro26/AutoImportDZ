@@ -3867,39 +3867,297 @@
         "tr": "Litvanya", "la": "Lituania", "sv": "Litauen"
       },
       "administrative_divisions": [
-        {
-          "level1_id": "LT-VL",
-          "type": "Apskritis",
-          "names": {
-            "bg": "Вилнюс Окръг", "ca": "Comtat de Vílnius", "hr": "Vilniusska županija", "nl": "Vilnius District", "en": "Vilnius County",
-            "et": "Vilniuse maakond", "fi": "Vilnan lääni", "fr": "Apskritis de Vilnius", "de": "Bezirk Vilnius", "el": "Βίλνιους (Επαρχία)",
-            "ga": "Contae Vilnias", "it": "Contea di Vilnius", "lv": "Viļņas apriņķis", "lt": "Vilniaus apskritis", "lb": "Bezirk Vilnius",
-            "mt": "Kontea ta' Vilnius", "pt": "Distrito de Vilnius", "sk": "Vilniuský kraj", "sl": "Okrožje Vilnius", "es": "Provincia de Vilna",
-            "tr": "Vilnius Bölgesi", "la": "Palatinatus Vilnensis", "sv": "Vilnius län"
-          },
-          "level2_divisions": [
-            {
-              "level2_id": "LT-VL-M",
-              "type": "Savivaldybė",
-              "names": {
-                "bg": "Вилнюс (Град)", "ca": "Vílnius", "hr": "Vilnius (Grad)", "nl": "Vilnius Stad", "en": "Vilnius City Municipality",
-                "et": "Vilniuse linn", "fi": "Vilnan kaupunki", "fr": "Vilnius Ville", "de": "Vilnius Stadt", "el": "Δήμος Βίλνιους",
-                "ga": "Cathair Vilnias", "it": "Comune di Vilnius", "lv": "Viļņas pilsēта", "lt": "Vilniaus miesto savivaldybė", "lb": "Vilnius Stad",
-                "mt": "Muniċipalità ta' Vilnius", "pt": "Município de Vilnius", "sk": "Bratislava I", "sl": "Mestna občina Vilnius", "es": "Municipio de Vilna",
-                "tr": "Vilnius Şehri", "la": "Vilna Urbs", "sv": "Vilnius stad"
-              },
-              "municipalities": [
-                {
-                  "municipality_id": "LT-M-01100",
-                  "name": "Senamiestis",
-                  "postal_codes": ["LT-01100"]
-                }
-              ]
-            }
-          ]
-        }
-      ]
+    {
+      "level1_id": "LT-AL",
+      "type": "Apskritis",
+      "names": {
+        "bg": "Алитус",
+        "ca": "Alytus",
+        "hr": "Alytus",
+        "nl": "Alytus",
+        "en": "Alytus",
+        "et": "Alytus",
+        "fi": "Alytus",
+        "fr": "Alytus",
+        "de": "Alytus",
+        "el": "Αλίτους",
+        "ga": "Alytus",
+        "it": "Alytus",
+        "lv": "Alīta",
+        "lt": "Alytaus apskritis",
+        "lb": "Alytus",
+        "mt": "Alytus",
+        "pt": "Alytus",
+        "sk": "Alytus",
+        "sl": "Alytus",
+        "es": "Alytus",
+        "tr": "Alytus",
+        "la": "Olita",
+        "sv": "Alytus"
+      }
     },
+    {
+      "level1_id": "LT-KU",
+      "type": "Apskritis",
+      "names": {
+        "bg": "Каунас",
+        "ca": "Kaunas",
+        "hr": "Kaunas",
+        "nl": "Kaunas",
+        "en": "Kaunas",
+        "et": "Kaunas",
+        "fi": "Kaunas",
+        "fr": "Kaunas",
+        "de": "Kaunas",
+        "el": "Κάουνας",
+        "ga": "Kaunas",
+        "it": "Kaunas",
+        "lv": "Kauņa",
+        "lt": "Kauno apskritis",
+        "lb": "Kaunas",
+        "mt": "Kaunas",
+        "pt": "Kaunas",
+        "sk": "Kaunas",
+        "sl": "Kaunas",
+        "es": "Kaunas",
+        "tr": "Kaunas",
+        "la": "Cauna",
+        "sv": "Kaunas"
+      }
+    },
+    {
+      "level1_id": "LT-KL",
+      "type": "Apskritis",
+      "names": {
+        "bg": "Клайпеда",
+        "ca": "Klaipėda",
+        "hr": "Klaipėda",
+        "nl": "Klaipėda",
+        "en": "Klaipėda",
+        "et": "Klaipėda",
+        "fi": "Klaipėda",
+        "fr": "Klaipėda",
+        "de": "Klaipėda",
+        "el": "Кλάιπεντα",
+        "ga": "Klaipėda",
+        "it": "Klaipėda",
+        "lv": "Klaipēda",
+        "lt": "Klaipėdos apskritis",
+        "lb": "Klaipėda",
+        "mt": "Klaipėda",
+        "pt": "Klaipėda",
+        "sk": "Klaipėda",
+        "sl": "Klaipėda",
+        "es": "Klaipėda",
+        "tr": "Klaipėda",
+        "la": "Memela",
+        "sv": "Klaipėda"
+      }
+    },
+    {
+      "level1_id": "LT-MA",
+      "type": "Apskritis",
+      "names": {
+        "bg": "Мариямполе",
+        "ca": "Marijampolė",
+        "hr": "Marijampolė",
+        "nl": "Marijampolė",
+        "en": "Marijampolė",
+        "et": "Marijampolė",
+        "fi": "Marijampolė",
+        "fr": "Marijampolė",
+        "de": "Marijampolė",
+        "el": "Μαριγιάμπολε",
+        "ga": "Marijampolė",
+        "it": "Marijampolė",
+        "lv": "Marijampole",
+        "lt": "Marijampolės apskritis",
+        "lb": "Marijampolė",
+        "mt": "Marijampolė",
+        "pt": "Marijampolė",
+        "sk": "Marijampolė",
+        "sl": "Marijampolė",
+        "es": "Marijampolė",
+        "tr": "Marijampolė",
+        "la": "Mariampolis",
+        "sv": "Marijampolė"
+      }
+    },
+    {
+      "level1_id": "LT-PA",
+      "type": "Apskritis",
+      "names": {
+        "bg": "Паневежис",
+        "ca": "Panevėžys",
+        "hr": "Panevėžys",
+        "nl": "Panevėžys",
+        "en": "Panevėžys",
+        "et": "Panevėžys",
+        "fi": "Panevėžys",
+        "fr": "Panevėžys",
+        "de": "Panevėžys",
+        "el": "Πανεβέζις",
+        "ga": "Panevėžys",
+        "it": "Panevėžys",
+        "lv": "Panevėža",
+        "lt": "Panevėžio apskritis",
+        "lb": "Panevėžys",
+        "mt": "Panevėžys",
+        "pt": "Panevėžys",
+        "sk": "Panevėžys",
+        "sl": "Panevėžys",
+        "es": "Panevėžys",
+        "tr": "Panevėžys",
+        "la": "Paneveza",
+        "sv": "Panevėžys"
+      }
+    },
+    {
+      "level1_id": "LT-SA",
+      "type": "Apskritis",
+      "names": {
+        "bg": "Шяуляй",
+        "ca": "Šiauliai",
+        "hr": "Šiauliai",
+        "nl": "Šiauliai",
+        "en": "Šiauliai",
+        "et": "Šiauliai",
+        "fi": "Šiauliai",
+        "fr": "Šiauliai",
+        "de": "Šiauliai",
+        "el": "Σιαουλιάι",
+        "ga": "Šiauliai",
+        "it": "Šiauliai",
+        "lv": "Šauļi",
+        "lt": "Šiaulių apskritis",
+        "lb": "Šiauliai",
+        "mt": "Šiauliai",
+        "pt": "Šiauliai",
+        "sk": "Šiauliai",
+        "sl": "Šiauliai",
+        "es": "Šiauliai",
+        "tr": "Šiauliai",
+        "la": "Saule",
+        "sv": "Šiauliai"
+      }
+    },
+    {
+      "level1_id": "LT-TA",
+      "type": "Apskritis",
+      "names": {
+        "bg": "Таураге",
+        "ca": "Tauragė",
+        "hr": "Tauragė",
+        "nl": "Tauragė",
+        "en": "Tauragė",
+        "et": "Tauragė",
+        "fi": "Tauragė",
+        "fr": "Tauragė",
+        "de": "Tauragė",
+        "el": "Ταουράγκε",
+        "ga": "Tauragė",
+        "it": "Tauragė",
+        "lv": "Taurage",
+        "lt": "Tauragės apskritis",
+        "lb": "Tauragė",
+        "mt": "Tauragė",
+        "pt": "Tauragė",
+        "sk": "Tauragė",
+        "sl": "Tauragė",
+        "es": "Tauragė",
+        "tr": "Tauragė",
+        "la": "Taurage",
+        "sv": "Tauragė"
+      }
+    },
+    {
+      "level1_id": "LT-TE",
+      "type": "Apskritis",
+      "names": {
+        "bg": "Телшай",
+        "ca": "Telšiai",
+        "hr": "Telšiai",
+        "nl": "Telšiai",
+        "en": "Telšiai",
+        "et": "Telšiai",
+        "fi": "Telšiai",
+        "fr": "Telšiai",
+        "de": "Telšiai",
+        "el": "Τελσιάι",
+        "ga": "Telšiai",
+        "it": "Telšiai",
+        "lv": "Telši",
+        "lt": "Telšių apskritis",
+        "lb": "Telšiai",
+        "mt": "Telšiai",
+        "pt": "Telšiai",
+        "sk": "Telšiai",
+        "sl": "Telšiai",
+        "es": "Telšiai",
+        "tr": "Telšiai",
+        "la": "Telse",
+        "sv": "Telšiai"
+      }
+    },
+    {
+      "level1_id": "LT-UT",
+      "type": "Apskritis",
+      "names": {
+        "bg": "Утена",
+        "ca": "Utena",
+        "hr": "Utena",
+        "nl": "Utena",
+        "en": "Utena",
+        "et": "Utena",
+        "fi": "Utena",
+        "fr": "Utena",
+        "de": "Utena",
+        "el": "Ουτενά",
+        "ga": "Utena",
+        "it": "Utena",
+        "lv": "Utena",
+        "lt": "Utenos apskritis",
+        "lb": "Utena",
+        "mt": "Utena",
+        "pt": "Utena",
+        "sk": "Utena",
+        "sl": "Utena",
+        "es": "Utena",
+        "tr": "Utena",
+        "la": "Utena",
+        "sv": "Utena"
+      }
+    },
+    {
+      "level1_id": "LT-VL",
+      "type": "Apskritis",
+      "names": {
+        "bg": "Вилнюс Окръг",
+        "ca": "Comtat de Vílnius",
+        "hr": "Vilniusska županija",
+        "nl": "Vilnius District",
+        "en": "Vilnius County",
+        "et": "Vilniuse maakond",
+        "fi": "Vilnan lääni",
+        "fr": "Apskritis de Vilnius",
+        "de": "Bezirk Vilnius",
+        "el": "Βίλνιους (Επαρχία)",
+        "ga": "Contae Vilnias",
+        "it": "Contea di Vilnius",
+        "lv": "Viļņas apriņķis",
+        "lt": "Vilniaus apskritis",
+        "lb": "Bezirk Vilnius",
+        "mt": "Kontea ta' Vilnius",
+        "pt": "Distrito de Vilnius",
+        "sk": "Vilniuský kraj",
+        "sl": "Okrožje Vilnius",
+        "es": "Provincia de Vilna",
+        "tr": "Vilnius Bölgesi",
+        "la": "Palatinatus Vilnensis",
+        "sv": "Vilnius län"
+      }
+    }
+  ],
     {
       "iso_code": "LU",
       "capital": "Luxembourg",
@@ -3912,39 +4170,139 @@
         "tr": "Lüksemburg", "la": "Luxemburgum", "sv": "Luxemburg"
       },
       "administrative_divisions": [
-        {
-          "level1_id": "LU-LU",
-          "type": "Canton",
-          "names": {
-            "bg": "Люксембург (Кантон)", "ca": "Cantó de Luxemburg", "hr": "Kanton Luksemburg", "nl": "Kanton Luxemburg", "en": "Luxembourg Canton",
-            "et": "Luxembourgi kanton", "fi": "Luxemburgin kantoni", "fr": "Canton de Luxembourg", "de": "Kanton Luxemburg", "el": "Καντόνι Λουξεμβούργου",
-            "ga": "Canton Lucsamburg", "it": "Cantone di Lussemburgo", "lv": "Luksemburgas kantons", "lt": "Liuksemburgo kantonas", "lb": "Kanton Lëtzebuerg",
-            "mt": "Kanton ta' Lussemburgu", "pt": "Cantão de Luxemburgo", "sk": "Kantón Luxemburg", "sl": "Kanton Luksemburg", "es": "Cantón de Luxemburgo",
-            "tr": "Lüksemburg Kantonu", "la": "Pagus Luxemburgum", "sv": "Luxemburg kanton"
-          },
-          "level2_divisions": [
-            {
-              "level2_id": "LU-LU-C",
-              "type": "Commune",
-              "names": {
-                "bg": "Люксембург (Град)", "ca": "Ciutat de Luxemburg", "hr": "Luxembourg Ville", "nl": "Luxemburg Stad", "en": "Luxembourg City",
-                "et": "Luxembourgi linn", "fi": "Luxemburgin kaupunki", "fr": "Ville de Luxembourg", "de": "Luxemburg Stadt", "el": "Πόλη του Λουξεμβούργου",
-                "ga": "Cathair Lucsamburg", "it": "Città di Lussemburgo", "lv": "Luksemburgas pilsēta", "lt": "Liuksemburgo miestas", "lb": "Stad Lëtzebuerg",
-                "mt": "Belt ta' Lussemburgu", "pt": "Cidade de Luxemburgo", "sk": "Mesto Luxemburg", "sl": "Mesto Luksemburg", "es": "Ciudad de Luxemburgo",
-                "tr": "Lüksemburg Şehri", "la": "Luxemburgum Urbs", "sv": "Luxemburg stad"
-              },
-              "municipalities": [
-                {
-                  "municipality_id": "LU-M-1110",
-                  "name": "Ville Haute",
-                  "postal_codes": ["1110"]
-                }
-              ]
-            }
-          ]
-        }
-      ]
+    {
+      "level1_id": "LU-CA",
+      "type": "Canton",
+      "names": {
+        "bg": "Капелен", "ca": "Capellen", "hr": "Capellen", "nl": "Capellen", "en": "Capellen",
+        "et": "Capellen", "fi": "Capellen", "fr": "Capellen", "de": "Capellen", "el": "Καπέλεν",
+        "ga": "Capellen", "it": "Capellen", "lv": "Kapellene", "lt": "Kapelenas", "lb": "Capellen",
+        "mt": "Capellen", "pt": "Capellen", "sk": "Capellen", "sl": "Capellen", "es": "Capellen",
+        "tr": "Capellen", "la": "Capellen", "sv": "Capellen"
+      }
     },
+    {
+      "level1_id": "LU-CL",
+      "type": "Canton",
+      "names": {
+        "bg": "Клерво", "ca": "Clervaux", "hr": "Clervaux", "nl": "Clervaux", "en": "Clervaux",
+        "et": "Clervaux", "fi": "Clervaux", "fr": "Clervaux", "de": "Clervaux", "el": "Κλερβώ",
+        "ga": "Clervaux", "it": "Clervaux", "lv": "Klervo", "lt": "Klervo", "lb": "Clierf",
+        "mt": "Clervaux", "pt": "Clervaux", "sk": "Clervaux", "sl": "Clervaux", "es": "Clervaux",
+        "tr": "Clervaux", "la": "Clervaux", "sv": "Clervaux"
+      }
+    },
+    {
+      "level1_id": "LU-DI",
+      "type": "Canton",
+      "names": {
+        "bg": "Дикирх", "ca": "Diekirch", "hr": "Diekirch", "nl": "Diekirch", "en": "Diekirch",
+        "et": "Diekirch", "fi": "Diekirch", "fr": "Diekirch", "de": "Diekirch", "el": "Ντικίρχ",
+        "ga": "Diekirch", "it": "Diekirch", "lv": "Dīkirha", "lt": "Dykirchas", "lb": "Diekirch",
+        "mt": "Diekirch", "pt": "Diekirch", "sk": "Diekirch", "sl": "Diekirch", "es": "Diekirch",
+        "tr": "Diekirch", "la": "Theodurcum", "sv": "Diekirch"
+      }
+    },
+    {
+      "level1_id": "LU-EC",
+      "type": "Canton",
+      "names": {
+        "bg": "Ехтернах", "ca": "Echternach", "hr": "Echternach", "nl": "Echternach", "en": "Echternach",
+        "et": "Echternach", "fi": "Echternach", "fr": "Echternach", "de": "Echternach", "el": "Εχτερναχ",
+        "ga": "Echternach", "it": "Echternach", "lv": "Ehternaha", "lt": "Echternachas", "lb": "Iechternach",
+        "mt": "Echternach", "pt": "Echternach", "sk": "Echternach", "sl": "Echternach", "es": "Echternach",
+        "tr": "Echternach", "la": "Epternacum", "sv": "Echternach"
+      }
+    },
+    {
+      "level1_id": "LU-ES",
+      "type": "Canton",
+      "names": {
+        "bg": "Еш сюр Алзет", "ca": "Esch-sur-Alzette", "hr": "Esch-sur-Alzette", "nl": "Esch-sur-Alzette", "en": "Esch-sur-Alzette",
+        "et": "Esch-sur-Alzette", "fi": "Esch-sur-Alzette", "fr": "Esch-sur-Alzette", "de": "Esch-sur-Alzette", "el": "Ες-συρ-Αλζέτ",
+        "ga": "Esch-sur-Alzette", "it": "Esch-sur-Alzette", "lv": "Eša pie Alzetas", "lt": "Ešas prie Alzeto", "lb": "Esch-Uelzecht",
+        "mt": "Esch-sur-Alzette", "pt": "Esch-sur-Alzette", "sk": "Esch-sur-Alzette", "sl": "Esch-sur-Alzette", "es": "Esch-sur-Alzette",
+        "tr": "Esch-sur-Alzette", "la": "Esca ad Alisontiam", "sv": "Esch-sur-Alzette"
+      }
+    },
+    {
+      "level1_id": "LU-GR",
+      "type": "Canton",
+      "names": {
+        "bg": "Гревенмахер", "ca": "Grevenmacher", "hr": "Grevenmacher", "nl": "Grevenmacher", "en": "Grevenmacher",
+        "et": "Grevenmacher", "fi": "Grevenmacher", "fr": "Grevenmacher", "de": "Grevenmacher", "el": "Γκρεβενμάχερ",
+        "ga": "Grevenmacher", "it": "Grevenmacher", "lv": "Grevenmahere", "lt": "Grevenmacheris", "lb": "Gréiwemaacher",
+        "mt": "Grevenmacher", "pt": "Grevenmacher", "sk": "Grevenmacher", "sl": "Grevenmacher", "es": "Grevenmacher",
+        "tr": "Grevenmacher", "la": "Grevenmacher", "sv": "Grevenmacher"
+      }
+    },
+    {
+      "level1_id": "LU-LU",
+      "type": "Canton",
+      "names": {
+        "bg": "Люксембург", "ca": "Luxemburg", "hr": "Luksemburg", "nl": "Luxemburg", "en": "Luxembourg",
+        "et": "Luksemburg", "fi": "Luxembourg", "fr": "Luxembourg", "de": "Luxemburg", "el": "Λουξεμβούργο",
+        "ga": "Lucsamburg", "it": "Lussemburgo", "lv": "Luksemburga", "lt": "Liuksemburgas", "lb": "Lëtzebuerg",
+        "mt": "Lussemburgu", "pt": "Luxemburgo", "sk": "Luxembursko", "sl": "Luksemburg", "es": "Luxemburgo",
+        "tr": "Lüksemburg", "la": "Luxemburgum", "sv": "Luxemburg"
+      }
+    },
+    {
+      "level1_id": "LU-ME",
+      "type": "Canton",
+      "names": {
+        "bg": "Мерш", "ca": "Mersch", "hr": "Mersch", "nl": "Mersch", "en": "Mersch",
+        "et": "Mersch", "fi": "Mersch", "fr": "Mersch", "de": "Mersch", "el": "Мερς",
+        "ga": "Mersch", "it": "Mersch", "lv": "Merša", "lt": "Meršas", "lb": "Miersch",
+        "mt": "Mersch", "pt": "Mersch", "sk": "Mersch", "sl": "Mersch", "es": "Mersch",
+        "tr": "Mersch", "la": "Marisca", "sv": "Mersch"
+      }
+    },
+    {
+      "level1_id": "LU-RD",
+      "type": "Canton",
+      "names": {
+        "bg": "Реданж", "ca": "Redange", "hr": "Redange", "nl": "Redange", "en": "Redange",
+        "et": "Redange", "fi": "Redange", "fr": "Redange", "de": "Redange", "el": "Ρεντάνζ",
+        "ga": "Redange", "it": "Redange", "lv": "Redanža", "lt": "Redanžas", "lb": "Réiden",
+        "mt": "Redange", "pt": "Redange", "sk": "Redange", "sl": "Redange", "es": "Redange",
+        "tr": "Redange", "la": "Redange", "sv": "Redange"
+      }
+    },
+    {
+      "level1_id": "LU-RM",
+      "type": "Canton",
+      "names": {
+        "bg": "Ремих", "ca": "Remich", "hr": "Remich", "nl": "Remich", "en": "Remich",
+        "et": "Remich", "fi": "Remich", "fr": "Remich", "de": "Remich", "el": "Ρέμιχ",
+        "ga": "Remich", "it": "Remich", "lv": "Remiha", "lt": "Remichas", "lb": "Réimech",
+        "mt": "Remich", "pt": "Remich", "sk": "Remich", "sl": "Remich", "es": "Remich",
+        "tr": "Remich", "la": "Remacum", "sv": "Remich"
+      }
+    },
+    {
+      "level1_id": "LU-VD",
+      "type": "Canton",
+      "names": {
+        "bg": "Вианден", "ca": "Vianden", "hr": "Vianden", "nl": "Vianden", "en": "Vianden",
+        "et": "Vianden", "fi": "Vianden", "fr": "Vianden", "de": "Vianden", "el": "Βιαντέν",
+        "ga": "Vianden", "it": "Vianden", "lv": "Viandena", "lt": "Viandenas", "lb": "Veianen",
+        "mt": "Vianden", "pt": "Vianden", "sk": "Vianden", "sl": "Vianden", "es": "Vianden",
+        "tr": "Vianden", "la": "Vianandense", "sv": "Vianden"
+      }
+    },
+    {
+      "level1_id": "LU-WI",
+      "type": "Canton",
+      "names": {
+        "bg": "Вилц", "ca": "Wiltz", "hr": "Wiltz", "nl": "Wiltz", "en": "Wiltz",
+        "et": "Wiltz", "fi": "Wiltz", "fr": "Wiltz", "de": "Wiltz", "el": "Βιλτς",
+        "ga": "Wiltz", "it": "Wiltz", "lv": "Vilca", "lt": "Vilcas", "lb": "Wolz",
+        "mt": "Wiltz", "pt": "Wiltz", "sk": "Wiltz", "sl": "Wiltz", "es": "Wiltz",
+        "tr": "Wiltz", "la": "Wiltz", "sv": "Wiltz"
+      }
+    }
+  ],
     {
       "iso_code": "MT",
       "capital": "Valletta",
