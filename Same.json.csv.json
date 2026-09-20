@@ -659,50 +659,154 @@
         "tr": "Lefkoşa",
         "la": "Nicosia",
         "sv": "Nikosia"
-      },
-      "level2_divisions": [
-        {
-          "level2_id": "CY-01-M",
-          "type": "Dimos",
-          "names": {
-            "bg": "Община Никозия",
-            "ca": "Municipi de Nicòsia",
-            "hr": "Općina Nikozija",
-            "nl": "Gemeente Nicosia",
-            "en": "Nicosia Municipality",
-            "et": "Nicosia vald",
-            "fi": "Nikosian kunta",
-            "fr": "Municipalité de Nicosie",
-            "de": "Gemeinde Nikosia",
-            "el": "Δήμος Λευκωσίας",
-            "ga": "Bardas Nicosia",
-            "it": "Comune di Nicosia",
-            "lv": "Nikosijas pašvaldība",
-            "lt": "Nikosijos savivaldybė",
-            "lb": "Gemeng Nikosia",
-            "mt": "Muniċipalità ta' Nikosija",
-            "pt": "Município de Nicósia",
-            "sk": "Mesto Nikózia",
-            "sl": "Občina Nikozija",
-            "es": "Municipio de Nicosia",
-            "tr": "Lefkoşa Belediyesi",
-            "la": "Municipium Nicosia",
-            "sv": "Nikosia kommun"
-          },
-          "municipalities": [
-            {
-              "municipality_id": "CY-M-2300",
-              "name": "Ayios Dhometios",
-              "postal_codes": [
-                "2300"
-              ]
-            }
-          ]
-        }
-      ]
+      }
+    },
+    {
+      "level1_id": "CY-02",
+      "type": "Eparchia",
+      "names": {
+        "bg": "Фамагуста",
+        "ca": "Famagusta",
+        "hr": "Famagusta",
+        "nl": "Famagusta",
+        "en": "Famagusta",
+        "et": "Famagusta",
+        "fi": "Famagusta",
+        "fr": "Famagouste",
+        "de": "Famagusta",
+        "el": "Αμμόχωστος",
+        "ga": "Famagusta",
+        "it": "Famagosta",
+        "lv": "Famagusta",
+        "lt": "Famagusta",
+        "lb": "Famagusta",
+        "mt": "Famagusta",
+        "pt": "Famagusta",
+        "sk": "Famagusta",
+        "sl": "Famagusta",
+        "es": "Famagusta",
+        "tr": "Mağusa",
+        "la": "Arsinoe",
+        "sv": "Famagusta"
+      }
+    },
+    {
+      "level1_id": "CY-03",
+      "type": "Eparchia",
+      "names": {
+        "bg": "Ларнака",
+        "ca": "Làrnaca",
+        "hr": "Larnaka",
+        "nl": "Larnaca",
+        "en": "Larnaca",
+        "et": "Larnaca",
+        "fi": "Larnaka",
+        "fr": "Larnaca",
+        "de": "Larnaka",
+        "el": "Λάρνακα",
+        "ga": "Larnaca",
+        "it": "Larnaca",
+        "lv": "Larnaka",
+        "lt": "Larnaka",
+        "lb": "Larnaka",
+        "mt": "Larnaca",
+        "pt": "Larnaca",
+        "sk": "Larnaka",
+        "sl": "Larnaka",
+        "es": "Lárnaca",
+        "tr": "Larnaka",
+        "la": "Citium",
+        "sv": "Larnaka"
+      }
+    },
+    {
+      "level1_id": "CY-04",
+      "type": "Eparchia",
+      "names": {
+        "bg": "Лимасол",
+        "ca": "Limassol",
+        "hr": "Limassol",
+        "nl": "Limassol",
+        "en": "Limassol",
+        "et": "Limassol",
+        "fi": "Limassol",
+        "fr": "Limassol",
+        "de": "Limassol",
+        "el": "Λεμεσός",
+        "ga": "Limassol",
+        "it": "Limassol",
+        "lv": "Limasola",
+        "lt": "Limasolis",
+        "lb": "Limassol",
+        "mt": "Limassol",
+        "pt": "Limassol",
+        "sk": "Limassol",
+        "sl": "Limassol",
+        "es": "Limassol",
+        "tr": "Limasol",
+        "la": "Neapolis",
+        "sv": "Limassol"
+      }
+    },
+    {
+      "level1_id": "CY-05",
+      "type": "Eparchia",
+      "names": {
+        "bg": "Пафос",
+        "ca": "Pafos",
+        "hr": "Pafos",
+        "nl": "Paphos",
+        "en": "Paphos",
+        "et": "Paphos",
+        "fi": "Pafos",
+        "fr": "Paphos",
+        "de": "Paphos",
+        "el": "Πάφος",
+        "ga": "Paphos",
+        "it": "Pafo",
+        "lv": "Pafosa",
+        "lt": "Pafosas",
+        "lb": "Paphos",
+        "mt": "Paphos",
+        "pt": "Pafos",
+        "sk": "Pafos",
+        "sl": "Pafos",
+        "es": "Pafos",
+        "tr": "Baf",
+        "la": "Paphus",
+        "sv": "Pafos"
+      }
+    },
+    {
+      "level1_id": "CY-06",
+      "type": "Eparchia",
+      "names": {
+        "bg": "Кирения",
+        "ca": "Kyrenia",
+        "hr": "Kyrenia",
+        "nl": "Kyrenia",
+        "en": "Kyrenia",
+        "et": "Kyrenia",
+        "fi": "Kyrenia",
+        "fr": "Kyrenia",
+        "de": "Kyrenia",
+        "el": "Κερύνεια",
+        "ga": "Kyrenia",
+        "it": "Kyrenia",
+        "lv": "Kirenija",
+        "lt": "Kirenija",
+        "lb": "Kyrenia",
+        "mt": "Kyrenia",
+        "pt": "Kyrenia",
+        "sk": "Kyrenia",
+        "sl": "Kyrenia",
+        "es": "Kyrenia",
+        "tr": "Girne",
+        "la": "Cerynia",
+        "sv": "Kyrenia"
+      }
     }
-  ]
-},
+  ],
     {
       "iso_code": "EE",
       "capital": "Tallinn",
