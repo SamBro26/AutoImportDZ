@@ -227,38 +227,380 @@
         "tr": "Hırvatistan", "la": "Croatia", "sv": "Kroatien"
       },
       "administrative_divisions": [
-        {
-          "level1_id": "HR-21",
-          "type": "Županija",
-          "names": {
-            "bg": "Град Загреб", "ca": "Ciutat de Zagreb", "hr": "Grad Zagreb", "nl": "Stad Zagreb", "en": "City of Zagreb",
-            "et": "Zagrebi linn", "fi": "Zagrebin kaupunki", "fr": "Ville de Zagreb", "de": "Stadt Zagreb", "el": "Ζάγκρεμπ (Πόλη)",
-            "ga": "Cathair Ghaidreabh", "it": "Zagabria Città", "lv": "Zagrebas pilsēta", "lt": "Zagrebo miestas", "lb": "Zagreb Stad",
-            "mt": "Belt ta' Zagreb", "pt": "Zagreb Cidade", "sk": "Záhreb-mesto", "sl": "Zagreb-mesto", "es": "Zagreb Ciudad",
-            "tr": "Zagreb Şehri", "la": "Zagrabia Urbs", "sv": "Zagreb Stad"
-          },
-          "level2_divisions": [
-            {
-              "level2_id": "HR-21-1",
-              "type": "Gradska četvrt",
-              "names": {
-                "bg": "Дони Град", "ca": "Donji Grad", "hr": "Donji Grad", "nl": "Donji Grad", "en": "Donji Grad",
-                "et": "Donji Grad", "fi": "Donji Grad", "fr": "Donji Grad", "de": "Donji Grad", "el": "Ντόνι Γκραντ",
-                "ga": "Donji Grad", "it": "Donji Grad", "lv": "Donji Grad", "lt": "Donji Grad", "lb": "Donji Grad",
-                "mt": "Donji Grad", "pt": "Donji Grad", "sk": "Donji Grad", "sl": "Donji Grad", "es": "Donji Grad",
-                "tr": "Donji Grad", "la": "Donji Grad", "sv": "Donji Grad"
-              },
-              "municipalities": [
-                {
-                  "municipality_id": "HR-M-10000",
-                  "name": "Zagreb Centar",
-                  "postal_codes": ["10000"]
-                }
-              ]
-            }
-          ]
-        }
-      ]
+    {
+      "level1_id": "HR-21",
+      "type": "Županija",
+      "names": {
+        "bg": "Град Загреб", "ca": "Ciutat de Zagreb", "hr": "Grad Zagreb", "nl": "Stad Zagreb", "en": "City of Zagreb",
+        "et": "Zagrebi linn", "fi": "Zagrebin kaupunki", "fr": "Ville de Zagreb", "de": "Stadt Zagreb", "el": "Ζάγκρεμπ (Πόλη)",
+        "ga": "Cathair Ghaidreabh", "it": "Zagabria Città", "lv": "Zagrebas pilsēta", "lt": "Zagrebo miestas", "lb": "Zagreb Stad",
+        "mt": "Belt ta' Zagreb", "pt": "Zagreb Cidade", "sk": "Záhreb-mesto", "sl": "Zagreb-mesto", "es": "Zagreb Ciudad",
+        "tr": "Zagreb Şehri", "la": "Zagrabia Urbs", "sv": "Zagreb Stad"
+      }
+    },
+    {
+      "level1_id": "HR-01",
+      "type": "Županija",
+      "names": {
+        "bg": "Загребска", "ca": "Zagreb", "hr": "Zagrebačka županija", "nl": "Zagreb (Provincie)", "en": "Zagreb County",
+        "et": "Zagrebi maakond", "fi": "Zagrebin piirikunta", "fr": "Comté de Zagreb", "de": "Gespanschaft Zagreb", "el": "Ζάγκρεμπ (Επαρχία)",
+        "ga": "Contae Ghaidreabh", "it": "Contea di Zagabria", "lv": "Zagrebas administratīvais rajons", "lt": "Zagrebo apskritis", "lb": "Provënz Zagreb",
+        "mt": "Kontea ta' Zagreb", "pt": "Distrito de Zagreb", "sk": "Zagreb-okolie", "sl": "Zagrebačka regija", "es": "Provincia de Zagreb",
+        "tr": "Zagreb Bölgesi", "la": "Comitatus Zagrabiensis", "sv": "Zagreb län"
+      }
+    },
+    {
+      "level1_id": "HR-02",
+      "type": "Županija",
+      "names": {
+        "bg": "Крапинско-загорска", "ca": "Krapina-Zagorje", "hr": "Krapinsko-zagorska županija", "nl": "Krapina-Zagorje", "en": "Krapina-Zagorje",
+        "et": "Krapina-Zagorje", "fi": "Krapina-Zagorje", "fr": "Krapina-Zagorje", "de": "Krapina-Zagorje", "el": "Κράπινα-Ζαγκόριε",
+        "ga": "Krapina-Zagorje", "it": "Krapina-Zagorje", "lv": "Krapinas-Zagorjes", "lt": "Krapinos–Zagorjės", "lb": "Krapina-Zagorje",
+        "mt": "Krapina-Zagorje", "pt": "Krapina-Zagorje", "sk": "Krapinsko-zagorská", "sl": "Krapinsko-zagorska", "es": "Krapina-Zagorje",
+        "tr": "Krapina-Zagorje", "la": "Crapina-Zagorje", "sv": "Krapina-Zagorje"
+      }
+    },
+    {
+      "level1_id": "HR-03",
+      "type": "Županija",
+      "names": {
+        "bg": "Сисашко-мославинска", "ca": "Sisak-Moslavina", "hr": "Sisačko-moslavačka županija", "nl": "Sisak-Moslavina", "en": "Sisak-Moslavina",
+        "et": "Sisak-Moslavina", "fi": "Sisak-Moslavina", "fr": "Sisak-Moslavina", "de": "Sisak-Moslavina", "el": "Σίσακ-Μοσλαβίνα",
+        "ga": "Sisak-Moslavina", "it": "Sisak-Moslavina", "lv": "Sīskas-Moslavinas", "lt": "Sisako–Moslavinos", "lb": "Sisak-Moslavina",
+        "mt": "Sisak-Moslavina", "pt": "Sisak-Moslavina", "sk": "Sisačko-moslavská", "sl": "Sisaško-moslavska", "es": "Sisak-Moslavina",
+        "tr": "Sisak-Moslavina", "la": "Siscia-Moslavina", "sv": "Sisak-Moslavina"
+      }
+    },
+    {
+      "level1_id": "HR-04",
+      "type": "Županija",
+      "names": {
+        "bg": "Карловачка", "ca": "Karlovac", "hr": "Karlovačka županija", "nl": "Karlovac", "en": "Karlovac",
+        "et": "Karlovaci maakond", "fi": "Karlovacin piirikunta", "fr": "Comté de Karlovac", "de": "Gespanschaft Karlovac", "el": "Κάρλοβατς",
+        "ga": "Contae Karlovac", "it": "Contea di Karlovac", "lv": "Karlovacas rajons", "lt": "Karlovaco apskritis", "lb": "Provënz Karlovac",
+        "mt": "Kontea ta' Karlovac", "pt": "Distrito de Karlovac", "sk": "Karlovacký kraj", "sl": "Karlovačka regija", "es": "Provincia de Karlovac",
+        "tr": "Karlovac Bölgesi", "la": "Comitatus Carlovaciensis", "sv": "Karlovac län"
+      }
+    },
+    {
+      "level1_id": "HR-05",
+      "type": "Županija",
+      "names": {
+        "bg": "Вараждинска", "ca": "Varaždin", "hr": "Varaždinska županija", "nl": "Varaždin", "en": "Varaždin",
+        "et": "Varaždini maakond", "fi": "Varaždinin piirikunta", "fr": "Comté de Varaždin", "de": "Gespanschaft Varaždin", "el": "Βαραζντίν",
+        "ga": "Contae Varaždin", "it": "Contea di Varaždin", "lv": "Varaždinas rajons", "lt": "Varaždino apskritis", "lb": "Provënz Varaždin",
+        "mt": "Kontea ta' Varaždin", "pt": "Distrito de Varaždin", "sk": "Varaždinský kraj", "sl": "Varaždinska regija", "es": "Provincia de Varaždin",
+        "tr": "Varaždin Bölgesi", "la": "Comitatus Varasdinensis", "sv": "Varaždin län"
+      }
+    },
+    {
+      "level1_id": "HR-06",
+      "type": "Županija",
+      "names": {
+        "bg": "Копривнишко-крижевечка", "ca": "Koprivnica-Križevci", "hr": "Koprivničko-križevačka županija", "nl": "Koprivnica-Križevci", "en": "Koprivnica-Križevci",
+        "et": "Koprivnica-Križevci", "fi": "Koprivnica-Križevci", "fr": "Koprivnica-Križevci", "de": "Koprivnica-Križevci", "el": "Κοπρίβνιτσα-Κρίζεβτσι",
+        "ga": "Koprivnica-Križevci", "it": "Koprivnica-Križevci", "lv": "Koprivnicas-Križevcu", "lt": "Koprivnicų–Križevcų", "lb": "Koprivnica-Križevci",
+        "mt": "Koprivnica-Križevci", "pt": "Koprivnica-Križevci", "sk": "Koprivnicko-križevačká", "sl": "Koprivniško-križevska", "es": "Koprivnica-Križevci",
+        "tr": "Koprivnica-Križevci", "la": "Copriunisa-Crisium", "sv": "Koprivnica-Križevci"
+      }
+    },
+    {
+      "level1_id": "HR-07",
+      "type": "Županija",
+      "names": {
+        "bg": "Беловарско-билогорска", "ca": "Bjelovar-Bilogora", "hr": "Bjelovarsko-bilogorska županija", "nl": "Bjelovar-Bilogora", "en": "Bjelovar-Bilogora",
+        "et": "Bjelovar-Bilogora", "fi": "Bjelovar-Bilogora", "fr": "Bjelovar-Bilogora", "de": "Bjelovar-Bilogora", "el": "Μπιέλοβαρ-Μπιλόγκορα",
+        "ga": "Bjelovar-Bilogora", "it": "Bjelovar-Bilogora", "lv": "Belovaras-Bilogoras", "lt": "Bjelovaro–Bilogoros", "lb": "Bjelovar-Bilogora",
+        "mt": "Bjelovar-Bilogora", "pt": "Bjelovar-Bilogora", "sk": "Bjelovarsko-bilogorská", "sl": "Bjelovarsko-bilogorska", "es": "Bjelovar-Bilogora",
+        "tr": "Bjelovar-Bilogora", "la": "Belovaria-Bilogora", "sv": "Bjelovar-Bilogora"
+      }
+    },
+    {
+      "level1_id": "HR-08",
+      "type": "Županija",
+      "names": {
+        "bg": "Приморско-горанска", "ca": "Primorje-Gorski Kotar", "hr": "Primorsko-goranska županija", "nl": "Primorje-Gorski Kotar", "en": "Primorje-Gorski Kotar",
+        "et": "Primorje-Gorski Kotar", "fi": "Primorje-Gorski Kotar", "fr": "Littoral-Gorski Kotar", "de": "Primorje-Gorski Kotar", "el": "Παραθαλάσσια-Ορεινή",
+        "ga": "Primorje-Gorski Kotar", "it": "Litoraneo-Montana", "lv": "Piejūras-Gorski Kotaras", "lt": "Primorjės–Gorski Kotaro", "lb": "Primorje-Gorski Kotar",
+        "mt": "Primorje-Gorski Kotar", "pt": "Litoral-Gorski Kotar", "sk": "Prímorsko-goranská", "sl": "Primorsko-goranska", "es": "Primorje-Gorski Kotar",
+        "tr": "Primorje-Gorski Kotar", "la": "Litoralis-Montaniana", "sv": "Primorje-Gorski Kotar"
+      }
+    },
+    {
+      "level1_id": "HR-09",
+      "type": "Županija",
+      "names": {
+        "bg": "Личко-сенска", "ca": "Lika-Senj", "hr": "Ličko-senjska županija", "nl": "Lika-Senj", "en": "Lika-Senj",
+        "et": "Lika-Senj", "fi": "Lika-Senj", "fr": "Lika-Senj", "de": "Lika-Senj", "el": "Λίκα-Σένι",
+        "ga": "Lika-Senj", "it": "Lika-Segna", "lv": "Likas-Senas", "lt": "Liko–Senio", "lb": "Lika-Senj",
+        "mt": "Lika-Senj", "pt": "Lika-Senj", "sk": "Ličsko-senjská", "sl": "Ličko-senjska", "es": "Lika-Senj",
+        "tr": "Lika-Senj", "la": "Lika-Signia", "sv": "Lika-Senj"
+      }
+    },
+    {
+      "level1_id": "HR-10",
+      "type": "Županija",
+      "names": {
+        "bg": "Вировитишко-подравска", "ca": "Virovitica-Podravina", "hr": "Virovitičko-podravska županija", "nl": "Virovitica-Podravina", "en": "Virovitica-Podravina",
+        "et": "Virovitica-Podravina", "fi": "Virovitica-Podravina", "fr": "Virovitica-Podravina", "de": "Virovitica-Podravina", "el": "Βιροβίτιτσα-Ποντραβίνα",
+        "ga": "Virovitica-Podravina", "it": "Virovitica-Podravina", "lv": "Viroviticas-Podravinas", "lt": "Viroviticos–Podravinos", "lb": "Virovitica-Podravina",
+        "mt": "Virovitica-Podravina", "pt": "Virovitica-Podravina", "sk": "Virovitičsko-podravská", "sl": "Virovitiško-podravska", "es": "Virovitica-Podravina",
+        "tr": "Virovitica-Podravina", "la": "Virovitica-Dravus", "sv": "Virovitica-Podravina"
+      }
+    },
+    {
+      "level1_id": "HR-11",
+      "type": "Županija",
+      "names": {
+        "bg": "Пожежко-славонска", "ca": "Požega-Slavònia", "hr": "Požeško-slavonska županija", "nl": "Požega-Slavonië", "en": "Požega-Slavonia",
+        "et": "Požega-Slavoonia", "fi": "Požega-Slavonia", "fr": "Požega-Slavonie", "de": "Požega-Slawonien", "el": "Πόζεγκα-Σλαβονία",
+        "ga": "Požega-Slavonia", "it": "Požega-Slavonia", "lv": "Požegas-Slavonijas", "lt": "Požegos–Slavonijos", "lb": "Požega-Slawonien",
+        "mt": "Požega-Slavonja", "pt": "Požega-Slavónia", "sk": "Požežsko-slavónska", "sl": "Požeško-slavonska", "es": "Požega-Slavonia",
+        "tr": "Požega-Slavonya", "la": "Posega-Slavonia", "sv": "Požega-Slavonien"
+      }
+    },
+    {
+      "level1_id": "HR-12",
+      "type": "Županija",
+      "names": {
+        "bg": "Бродско-посавска", "ca": "Brod-Posavina", "hr": "Brodsko-posavska županija", "nl": "Brod-Posavina", "en": "Brod-Posavina",
+        "et": "Brod-Posavina", "fi": "Brod-Posavina", "fr": "Brod-Posavina", "de": "Brod-Posavina", "el": "Μπροντ-Ποσάβινα",
+        "ga": "Brod-Posavina", "it": "Brod-Posavina", "lv": "Brodas-Posavinas", "lt": "Brodo–Posavinos", "lb": "Brod-Posavina",
+        "mt": "Brod-Posavina", "pt": "Brod-Posavina", "sk": "Brodsko-posavská", "sl": "Brodsko-posavska", "es": "Brod-Posavina",
+        "tr": "Brod-Posavina", "la": "Marsonianus-Savus", "sv": "Brod-Posavina"
+      }
+    },
+    {
+      "level1_id": "HR-13",
+      "type": "Županija",
+      "names": {
+        "bg": "Задарска",
+        "ca": "Zadar",
+        "hr": "Zadarska županija",
+        "nl": "Zadar",
+        "en": "Zadar",
+        "et": "Zadari maakond",
+        "fi": "Zadarin piirikunta",
+        "fr": "Comté de Zadar",
+        "de": "Gespanschaft Zadar",
+        "el": "Ζαντάρ",
+        "ga": "Contae Zadar",
+        "it": "Contea di Zara",
+        "lv": "Zadaras rajons",
+        "lt": "Zadaro apskritis",
+        "lb": "Provënz Zadar",
+        "mt": "Kontea ta' Zadar",
+        "pt": "Distrito de Zadar",
+        "sk": "Zadarský kraj",
+        "sl": "Zadarska regija",
+        "es": "Provincia de Zadar",
+        "tr": "Zadar Bölgesi",
+        "la": "Comitatus Iaderensis",
+        "sv": "Zadar län"
+      }
+    },
+    {
+      "level1_id": "HR-14",
+      "type": "Županija",
+      "names": {
+        "bg": "Осиешко-баранска",
+        "ca": "Osijek-Baranja",
+        "hr": "Osječko-baranjska županija",
+        "nl": "Osijek-Baranja",
+        "en": "Osijek-Baranja",
+        "et": "Osijek-Baranja",
+        "fi": "Osijek-Baranja",
+        "fr": "Osijek-Baranja",
+        "de": "Osijek-Baranja",
+        "el": "Όσιγιεκ-Μπαράνια",
+        "ga": "Osijek-Baranja",
+        "it": "Osijek-Baranja",
+        "lv": "Osijekas-Baranjas",
+        "lt": "Osijeko–Baranijos",
+        "lb": "Osijek-Baranja",
+        "mt": "Osijek-Baranja",
+        "pt": "Osijek-Baranja",
+        "sk": "Osiecko-baranjská",
+        "sl": "Osječko-baranjska",
+        "es": "Osijek-Baranja",
+        "tr": "Osijek-Baranja",
+        "la": "Mursa-Baranya",
+        "sv": "Osijek-Baranja"
+      }
+    },
+    {
+      "level1_id": "HR-15",
+      "type": "Županija",
+      "names": {
+        "bg": "Шибенишко-книнска",
+        "ca": "Šibenik-Knin",
+        "hr": "Šibensko-kninska županija",
+        "nl": "Šibenik-Knin",
+        "en": "Šibenik-Knin",
+        "et": "Šibenik-Knin",
+        "fi": "Šibenik-Knin",
+        "fr": "Šibenik-Knin",
+        "de": "Šibenik-Knin",
+        "el": "Σίμπενικ-Κνιν",
+        "ga": "Šibenik-Knin",
+        "it": "Sebenico-Tenin",
+        "lv": "Šibenikas-Kninas",
+        "lt": "Šibeniko–Knino",
+        "lb": "Šibenik-Knin",
+        "mt": "Šibenik-Knin",
+        "pt": "Šibenik-Knin",
+        "sk": "Šibenicko-kninská",
+        "sl": "Šibensko-kninska",
+        "es": "Šibenik-Knin",
+        "tr": "Šibenik-Knin",
+        "la": "Sibenicum-Tininum",
+        "sv": "Šibenik-Knin"
+      }
+    },
+    {
+      "level1_id": "HR-16",
+      "type": "Županija",
+      "names": {
+        "bg": "Вуковарско-сремска",
+        "ca": "Vukovar-Srem",
+        "hr": "Vukovarsko-srijemska županija",
+        "nl": "Vukovar-Srijem",
+        "en": "Vukovar-Srijem",
+        "et": "Vukovar-Srijem",
+        "fi": "Vukovar-Srijem",
+        "fr": "Vukovar-Syrmie",
+        "de": "Vukovar-Syrmien",
+        "el": "Βούκοβαρ-Σριέμ",
+        "ga": "Vukovar-Srijem",
+        "it": "Vukovar-Sirmia",
+        "lv": "Vukovāras-Srijemas",
+        "lt": "Vukovaro–Srijemo",
+        "lb": "Vukovar-Syrmien",
+        "mt": "Vukovar-Srijem",
+        "pt": "Vukovar-Sirmia",
+        "sk": "Vukovarsko-sriemská",
+        "sl": "Vukovarsko-sremska",
+        "es": "Vukovar-Srijem",
+        "tr": "Vukovar-Srijem",
+        "la": "Volcae-Syrmium",
+        "sv": "Vukovar-Syrmien"
+      }
+    },
+    {
+      "level1_id": "HR-17",
+      "type": "Županija",
+      "names": {
+        "bg": "Сплитско-далматинска",
+        "ca": "Split-Dalmàcia",
+        "hr": "Splitsko-dalmatinska županija",
+        "nl": "Split-Dalmatië",
+        "en": "Split-Dalmatia",
+        "et": "Spliti-Dalmaatsia",
+        "fi": "Split-Dalmatia",
+        "fr": "Split-Dalmatie",
+        "de": "Split-Dalmatien",
+        "el": "Σπλιτ-Δαλματία",
+        "ga": "Split-Dalmatia",
+        "it": "Spalato-Dalmazia",
+        "lv": "Splitas-Dalmācijas",
+        "lt": "Splito–Dalmatijos",
+        "lb": "Split-Dalmatien",
+        "mt": "Split-Dalmazja",
+        "pt": "Split-Dalmácia",
+        "sk": "Splitsko-dalmatínska",
+        "sl": "Splitsko-dalmatinska",
+        "es": "Split-Dalmacia",
+        "tr": "Split-Dalmaçya",
+        "la": "Spalatum-Dalmatia",
+        "sv": "Split-Dalmatien"
+      }
+    },
+    {
+      "level1_id": "HR-18",
+      "type": "Županija",
+      "names": {
+        "bg": "Истрийска",
+        "ca": "Ístria",
+        "hr": "Istarska županija",
+        "nl": "Istrië",
+        "en": "Istria",
+        "et": "Istra",
+        "fi": "Istria",
+        "fr": "Istrie",
+        "de": "Istrien",
+        "el": "Ίστρια",
+        "ga": "Istria",
+        "it": "Istria",
+        "lv": "Istras",
+        "lt": "Istrijos",
+        "lb": "Istrien",
+        "mt": "Istria",
+        "pt": "Ístria",
+        "sk": "Istrijská",
+        "sl": "Istrska",
+        "es": "Istria",
+        "tr": "İstriya",
+        "la": "Histria",
+        "sv": "Istrien"
+      }
+    },
+    {
+      "level1_id": "HR-19",
+      "type": "Županija",
+      "names": {
+        "bg": "Дубровнишко-неретванска",
+        "ca": "Dubrovnik-Neretva",
+        "hr": "Dubrovačko-neretvanska županija",
+        "nl": "Dubrovnik-Neretva",
+        "en": "Dubrovnik-Neretva",
+        "et": "Dubrovnik-Neretva",
+        "fi": "Dubrovnik-Neretva",
+        "fr": "Dubrovnik-Neretva",
+        "de": "Dubrovnik-Neretva",
+        "el": "Ντουμπρόβνικ-Νέρετβα",
+        "ga": "Dubrovnik-Neretva",
+        "it": "Ragusa-Narenta",
+        "lv": "Dubrovnikas-Neretvas",
+        "lt": "Dubrovniko–Neretvos",
+        "lb": "Dubrovnik-Neretva",
+        "mt": "Dubrovnik-Neretva",
+        "pt": "Dubrovnik-Neretva",
+        "sk": "Dubrovnícko-neretvanska",
+        "sl": "Dubrovniško-neretvanska",
+        "es": "Dubrovnik-Neretva",
+        "tr": "Dubrovnik-Neretva",
+        "la": "Ragusa-Naro",
+        "sv": "Dubrovnik-Neretva"
+      }
+    },
+    {
+      "level1_id": "HR-20",
+      "type": "Županija",
+      "names": {
+        "bg": "Меджимурска",
+        "ca": "Međimurje",
+        "hr": "Međimurska županija",
+        "nl": "Međimurje",
+        "en": "Međimurje",
+        "et": "Međimurje",
+        "fi": "Međimurje",
+        "fr": "Međimurje",
+        "de": "Međimurje",
+        "el": "Μετζιμούριε",
+        "ga": "Međimurje",
+        "it": "Međimurje",
+        "lv": "Medžimurjes",
+        "lt": "Medžimurjės",
+        "lb": "Međimurje",
+        "mt": "Međimurje",
+        "pt": "Međimurje",
+        "sk": "Medzimurská",
+        "sl": "Medžimurska",
+        "es": "Međimurje",
+        "tr": "Međimurje",
+        "la": "Međimurje",
+        "sv": "Međimurje"
+      }
     },
     {
   "iso_code": "CY",
