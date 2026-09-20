@@ -205,42 +205,116 @@
       },
       "level2_divisions": [
         {
-          "level2_id": "AT-601",
-          "type": "Bezirk",
-          "names": {
-            "bg": "Грац",
-            "ca": "Graz",
-            "hr": "Grad Graz",
-            "nl": "Graz",
-            "en": "Graz",
-            "et": "Graz",
-            "fi": "Graz",
-            "fr": "Graz",
-            "de": "Graz",
-            "el": "Γκρατς",
-            "ga": "Graz",
-            "it": "Graz",
-            "lv": "Grāca",
-            "lt": "Gracas",
-            "lb": "Graz",
-            "mt": "Graz",
-            "pt": "Graz",
-            "sk": "Graz",
-            "sl": "Gradec",
-            "es": "Graz",
-            "tr": "Graz",
-            "la": "Graecia",
-            "sv": "Graz"
-          },
-          "municipalities": [
-            {
-              "municipality_id": "AT-M-8010",
-              "name": "Graz Innere Stadt",
-              "postal_codes": ["8010"]
-            }
-          ]
-        }
-      ]
+{
+  "iso_code": "AT",
+  "capital": "Vienna",
+  "currency": "EUR",
+  "name_translations": {
+    "bg": "Австрия", "ca": "Àustria", "hr": "Austrija", "nl": "Oostenrijk", "en": "Austria",
+    "et": "Austria", "fi": "Itävalta", "fr": "Autriche", "de": "Österreich", "el": "Αυστρία",
+    "ga": "An Ostair", "it": "Austria", "lv": "Austrija", "lt": "Austrija", "lb": "Éisträich",
+    "mt": "Awstrija", "pt": "Áustria", "sk": "Rakúsko", "sl": "Avstrija", "es": "Austria",
+    "tr": "Avusturya", "la": "Austria", "sv": "Österrike"
+  },
+  "administrative_divisions": [
+    {
+      "level1_id": "AT-9",
+      "type": "Bundesland",
+      "names": {
+        "bg": "Виена", "ca": "Viena", "hr": "Beč", "nl": "Wenen", "en": "Vienna",
+        "et": "Viin", "fi": "Wien", "fr": "Vienne", "de": "Wien", "el": "Βιέννη",
+        "ga": "Vín", "it": "Vienna", "lv": "Vīne", "lt": "Viena", "lb": "Wien",
+        "mt": "Vjenna", "pt": "Viena", "sk": "Viedeň", "sl": "Dunaj", "es": "Viena",
+        "tr": "Viyana", "la": "Vindobona", "sv": "Wien"
+      }
+    },
+    {
+      "level1_id": "AT-3",
+      "type": "Bundesland",
+      "names": {
+        "bg": "Долна Австрия", "ca": "Baixa Àustria", "hr": "Donja Austrija", "nl": "Nederostenrijk", "en": "Lower Austria",
+        "et": "Alam-Austria", "fi": "Ala-Itävalta", "fr": "Basse-Autriche", "de": "Niederösterreich", "el": "Κάτω Αυστρία",
+        "ga": "An Ostair Íochtarach", "it": "Bassa Austria", "lv": "Žemutinė Austrija", "lt": "Žemutinė Austrija", "lb": "Nidderéisträich",
+        "mt": "Awstrija t'Isfel", "pt": "Baixa Áustria", "sk": "Dolné Rakúsko", "sl": "Spodnja Avstrija", "es": "Baja Austria",
+        "tr": "Aşağı Avusturya", "la": "Austria Inferior", "sv": "Nedre Österrike"
+      }
+    },
+    {
+      "level1_id": "AT-4",
+      "type": "Bundesland",
+      "names": {
+        "bg": "Горна Австрия", "ca": "Alta Àustria", "hr": "Gornja Austrija", "nl": "Opperostenrijk", "en": "Upper Austria",
+        "et": "Ülem-Austria", "fi": "Ylä-Itävalta", "fr": "Haute-Autriche", "de": "Oberösterreich", "el": "Άνω Αυστρία",
+        "ga": "An Ostair Uachtarach", "it": "Alta Austria", "lv": "Aukštutinė Austrija", "lt": "Aukštutinė Austrija", "lb": "Ueweréisträich",
+        "mt": "Awstrija t'Upel", "pt": "Alta Áustria", "sk": "Horné Rakúsko", "sl": "Zgornja Avstrija", "es": "Alta Austria",
+        "tr": "Yukarı Avusturya", "la": "Austria Superior", "sv": "Övre Österrike"
+      }
+    },
+    {
+      "level1_id": "AT-5",
+      "type": "Bundesland",
+      "names": {
+        "bg": "Залцбург", "ca": "Salzburg", "hr": "Salzburg", "nl": "Salzburg", "en": "Salzburg",
+        "et": "Salzburg", "fi": "Salzburg", "fr": "Salzbourg", "de": "Salzburg", "el": "Σάλτσμπουργκ",
+        "ga": "Salzburg", "it": "Salisburgo", "lv": "Zalcburga", "lt": "Zalcburgas", "lb": "Salzburg",
+        "mt": "Salzburg", "pt": "Salisburgo", "sk": "Salzburg", "sl": "Salzburg", "es": "Salzburgo",
+        "tr": "Salzburg", "la": "Salisburgum", "sv": "Salzburg"
+      }
+    },
+    {
+      "level1_id": "AT-6",
+      "type": "Bundesland",
+      "names": {
+        "bg": "Щирия", "ca": "Estíria", "hr": "Štajerska", "nl": "Stiermarken", "en": "Styria",
+        "et": "Stiaria", "fi": "Steiermark", "fr": "Styrie", "de": "Steiermark", "el": "Στυρία",
+        "ga": "Styria", "it": "Stiria", "lv": "Stīrija", "lt": "Stirija", "lb": "Steiermark",
+        "mt": "Stirja", "pt": "Estíria", "sk": "Štajersko", "sl": "Štajerska", "es": "Estiria",
+        "tr": "Stirya", "la": "Stiria", "sv": "Steiermark"
+      }
+    },
+    {
+      "level1_id": "AT-7",
+      "type": "Bundesland",
+      "names": {
+        "bg": "Тирол", "ca": "Tirol", "hr": "Tirol", "nl": "Tirol", "en": "Tyrol",
+        "et": "Tirool", "fi": "Tiroli", "fr": "Tyrol", "de": "Tirol", "el": "Τιρόλο",
+        "ga": "Tirol", "it": "Tirolo", "lv": "Tirolis", "lt": "Tirolis", "lb": "Tirol",
+        "mt": "Tirol", "pt": "Tirol", "sk": "Tirolsko", "sl": "Tirolska", "es": "Tirol",
+        "tr": "Tirol", "la": "Tirolis", "sv": "Tyrolen"
+      }
+    },
+    {
+      "level1_id": "AT-2",
+      "type": "Bundesland",
+      "names": {
+        "bg": "Каринтия", "ca": "Caríntia", "hr": "Koruška", "nl": "Karinthië", "en": "Carinthia",
+        "et": "Kärnten", "fi": "Kärnten", "fr": "Carinthie", "de": "Kärnten", "el": "Καρινθία",
+        "ga": "Carinthia", "it": "Carinzia", "lv": "Karintija", "lt": "Karintija", "lb": "Kärnten",
+        "mt": "Karintja", "pt": "Caríntia", "sk": "Korutánsko", "sl": "Koroška", "es": "Carintia",
+        "tr": "Karintiya", "la": "Carinthia", "sv": "Kärnten"
+      }
+    },
+    {
+      "level1_id": "AT-1",
+      "type": "Bundesland",
+      "names": {
+        "bg": "Бургенланд", "ca": "Burgenland", "hr": "Gradišće", "nl": "Burgenland", "en": "Burgenland",
+        "et": "Burgenland", "fi": "Burgenland", "fr": "Burgenland", "de": "Burgenland", "el": "Μπούργκενλαντ",
+        "ga": "Burgenland", "it": "Burgenland", "lv": "Burgenlande", "lt": "Burgenlandas", "lb": "Burgenland",
+        "mt": "Burgenland", "pt": "Burgenland", "sk": "Burgenland", "sl": "Gradiščansko", "es": "Burgenland",
+        "tr": "Burgenland", "la": "Burgenlandia", "sv": "Burgenland"
+      }
+    },
+    {
+      "level1_id": "AT-8",
+      "type": "Bundesland",
+      "names": {
+        "bg": "Форарлберг", "ca": "Vorarlberg", "hr": "Vorarlberg", "nl": "Vorarlberg", "en": "Vorarlberg",
+        "et": "Vorarlberg", "fi": "Vorarlberg", "fr": "Vorarlberg", "de": "Vorarlberg", "el": "Φόραρλμπεργκ",
+        "ga": "Vorarlberg", "it": "Vorarlberg", "lv": "Forarlberga", "lt": "Vorarlbergas", "lb": "Vorarlberg",
+        "mt": "Vorarlberg", "pt": "Vorarlberg", "sk": "Vorarlbersko", "sl": "Predarlerska", "es": "Vorarlberg",
+        "tr": "Vorarlberg", "la": "Vorarlberga", "sv": "Vorarlberg"
+      }
     }
   ]
 },
